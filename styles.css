@@ -13,8 +13,8 @@
     content: '';
     position: absolute;
     bottom: 0;
-    left: 4.872cm; /* Adjust this value to position the start of the border */
-    width: calc(100% - 4.872cm); /* Adjust this value to set the length of the border */
+    left: 4.872cm;
+    width: calc(100% - 4.872cm); 
     border-bottom: 0.3rem solid #ffffff; 
 }
 
