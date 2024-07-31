@@ -141,9 +141,9 @@ body {
 }
 
 .rounded-line {
-    width: 900px;            /* Length of the line */
-    height: 2px;             /* Thickness of the line */
-    background-color: white; /* Color of the line */
+    width: 900px;
+    height: 2px;             
+    background-color: white; 
     border-radius: 10px;
-    margin-bottom: 2rem;     /* Round the corners */       /* Center the line horizontally */
+    margin-bottom: 2rem;   
 }
