@@ -1,0 +1,149 @@
+.custom-jumbotron {
+    background-color: #131313;
+    color: white;
+    padding: 2rem;
+    margin-left: 0rem;
+    margin-right: 0rem;
+    margin-bottom: 0rem;
+    position: relative;
+    padding-bottom: 2rem;
+}
+
+.custom-jumbotron::after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 4.872cm; /* Adjust this value to position the start of the border */
+    width: calc(100% - 4.872cm); /* Adjust this value to set the length of the border */
+    border-bottom: 0.3rem solid #ffffff; 
+}
+
+.jumbotron-text {
+    padding-left: 5cm;
+}
+
+.vertical-bar {
+    width: 5cm;
+    background-color: #131313 !important;
+    border-right: 0.3rem solid;
+    border-color: white;
+    padding-bottom: 0rem;
+    margin-bottom: 0rem;
+}
+
+body {
+    background-color: #1f1e1e;
+}
+
+.icon-wrapper {
+    position: absolute;
+    padding: 1rem;
+    top: 1.8rem; /* Adjust top position as needed */
+    left: 1.8rem; /* Adjust left position as needed */
+    color: white; /* Icon color */
+    border: 0.3rem solid white;
+    border-radius: 2rem;
+}
+
+.icon-top-left {
+    transition: transform 0.5s ease-in-out;
+}
+
+.icon-top-left:hover {
+    transform: rotate(540deg);
+}
+
+.icon-and-text-projects {
+    position: absolute;
+    padding: 1rem;
+    top: 12rem; /* Adjust top position as needed */
+    left: 2rem; /* Adjust left position as needed */
+    color: white; /* Icon color */
+}
+
+.icon-and-text-simulation {
+    position: absolute;
+    padding: 1rem;
+    top: 21rem; /* Adjust top position as needed */
+    left: 1.2rem; /* Adjust left position as needed */
+    color: white; /* Icon color */
+}
+
+.icon-and-text-music {
+    position: absolute;
+    padding: 1rem;
+    top: 30rem; /* Adjust top position as needed */
+    left: 2.5rem; /* Adjust left position as needed */
+    color: white; /* Icon color */
+}
+
+.navbar-i:hover {
+    animation: rotate-animation 0.5s;
+}
+
+@keyframes rotate-animation {
+    0% {
+        transform: rotate(0deg);
+    }
+    25% {
+        transform: rotate(20deg);
+    }
+    50% {
+        transform: rotate(0deg);
+    }
+    75% {
+        transform: rotate(-20deg);
+    }
+    100% {
+        transform: rotate(0deg);
+    }
+}
+
+.card {
+    margin-top: 2rem;
+    margin-left: 1rem;
+    background-color: #131313;
+    color: white;
+    width: 100%;
+}
+
+#pdf-viewer {
+    padding: 2rem;
+    height: 100vh !important;
+    width: 100vh !important;
+}
+
+.navbar-p {
+    font-size: 1.5rem;
+}
+
+#sim-viewer {
+    padding-left: 1rem;
+    padding-top: 2rem;
+    position: relative;
+}
+
+.sim-controls-buttons {
+    padding-bottom: 100%;
+}
+
+#sim-controls {
+    padding-left: 1rem;
+}
+
+#sim-viewer-header {
+    color: white;
+    padding-bottom: 1rem;
+}
+
+#music-viewer-container {
+    padding: 2rem;
+}
+
+.rounded-line {
+    width: 900px;            /* Length of the line */
+    height: 2px;             /* Thickness of the line */
+    background-color: white; /* Color of the line */
+    border-radius: 10px;
+    margin-bottom: 2rem;     /* Round the corners */       /* Center the line horizontally */
+}

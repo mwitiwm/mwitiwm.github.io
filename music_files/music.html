@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Simulation</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="../styles.css">
+    <script src="https://kit.fontawesome.com/9fbfcae3c2.js" crossorigin="anonymous"></script>
+    <script src="music.js" defer></script>
+    <link rel="icon" href="../images/favicon.svg" type="image/svg">
+</head>
+<body>
+    <div class="jumbotron custom-jumbotron jumbotron-fluid">
+        <div class="icon-wrapper">
+            <i class="fa-solid fa-5x fa-arrow-trend-up icon-top-left"></i>
+        </div>
+        <div class="jumbotron-text">
+            <h1 class="display-5">Matthew Witvoet</h1>
+            <p class="lead">Data Analyst, Data Scientist, Web Developer & Musician</p>
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row vh-100">
+            <!-- Vertical bar on the left -->
+            <div class="vertical-bar d-flex align-items-center justify-content-center">
+                <div class="icon-and-text-projects text-center" id="icon-and-text-projects">
+                    <i class="fa-solid fa-code fa-4x navbar-i"></i>
+                    <p class="navbar-p">Projects</p>
+                </div>
+                <div class="icon-and-text-simulation text-center" id="icon-and-text-simulation">
+                    <i class="fa-solid fa-flask fa-4x navbar-i"></i>
+                    <p class="navbar-p">Simulation</p>
+                </div>
+                <div class="icon-and-text-music text-center" id="icon-and-text-music">
+                    <i class="fa-solid fa-music fa-4x navbar-i"></i>
+                    <p class="navbar-p">Music</p>
+                </div>
+            </div>
+            <!-- Main content area -->
+            <div class="col-md-10 d-flex flex-column" id="music-viewer-container">
+                <h1 class="display-5" id="sim-viewer-header">Void Dimension Eviscerator:</h1>
+                <div class="rounded-line"></div>
+                <iframe width="900" height="600" src="https://www.youtube.com/embed/uErkK8ET0jI?si=4v6ZyzCze1QFhqEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

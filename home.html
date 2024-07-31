@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Matthew Witvoet</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/9fbfcae3c2.js" crossorigin="anonymous"></script>
+    <link rel="icon" href="images/favicon.svg" type="image/svg">
+</head>
+<body>
+    <div class="jumbotron custom-jumbotron jumbotron-fluid">
+        <div class="icon-wrapper">
+            <i class="fa-solid fa-5x fa-arrow-trend-up icon-top-left"></i>
+        </div>
+        <div class="jumbotron-text">
+            <h1 class="display-5">Matthew Witvoet</h1>
+            <p class="lead">Data Analyst, Data Scientist, Web Developer & Musician</p> 
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row vh-100">
+            <!-- Vertical bar on the left -->
+             
+            <div class="vertical-bar d-flex align-items-center justify-content-center">
+                <div class="icon-and-text-projects text-center">
+                    <i class="fa-solid fa-code fa-4x navbar-i"></i>
+                    <p class="navbar-p">Projects</p>
+                </div>
+                <div class="icon-and-text-simulation text-center" id="icon-and-text-simulation">
+                    <i class="fa-solid fa-flask fa-4x navbar-i"></i>
+                    <p class="navbar-p">Simulation</p>
+                </div>
+                <div class="icon-and-text-music text-center" id="icon-and-text-music">
+                    <i class="fa-solid fa-music fa-4x navbar-i"></i>
+                    <p class="navbar-p">Music</p>
+                </div>
+            </div>
+            
+            <!-- Main content area -->
+            <div class="col-md-10">
+                <div class="row">
+                    <!-- First Column -->
+                    <div class="col-md-4">
+                        <div class="card mb-4">
+                            <img src="images/correlation.webp" class="card-img-top" alt="Correlation">
+                            <div class="card-body">
+                                <h5 class="card-title">Correlation</h5>
+                                <p class="card-text">Contains implementations for: Pearson, Spearman, ANOVA, Chi-Squared Test.</p>
+                                <a href="project_files/correlation.html" class="btn btn-light">View Notebook</a>
+                            </div>
+                        </div>
+                        <div class="card mb-4">
+                            <img src="images/dbscan.png" class="card-img-top" alt="DBSCAN">
+                            <div class="card-body">
+                                <h5 class="card-title">DBSCAN</h5>
+                                <p class="card-text">Implements clustering algorithm and visualizes results.</p>
+                                <a href="project_files/dbscan.html" class="btn btn-light">View Notebook</a>
+                            </div>
+                        </div>
+                        <div class="card mb-4">
+                            <img src="images/perceptron.avif" class="card-img-top" alt="Perceptron">
+                            <div class="card-body">
+                                <h5 class="card-title">Perceptron</h5>
+                                <p class="card-text">Implements machine learning model, trains on generated dataset, and visualizes results.</p>
+                                <a href="project_files/perceptron.html" class="btn btn-light">View Notebook</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Second Column -->
+                    <div class="col-md-4">
+                        <div class="card mb-4">
+                            <img src="images/pca.gif" class="card-img-top" alt="PCA">
+                            <div class="card-body">
+                                <h5 class="card-title">Principal Component Analysis (PCA)</h5>
+                                <p class="card-text">Implements algorithm for linear algebra application, performs it on test dataset, and is compared to equivalent library function.</p>
+                                <a href="project_files/pca.html" class="btn btn-light">View Notebook</a>
+                            </div>
+                        </div>
+                        <div class="card mb-4">
+                            <img src="images/logistic.png" class="card-img-top" alt="Logistic Regression">
+                            <div class="card-body">
+                                <h5 class="card-title">Logistic Regression</h5>
+                                <p class="card-text">Implements machine learning model, is then trained and tested on generated dataset.</p>
+                                <a href="project_files/logistic_regression.html" class="btn btn-light">View Notebook</a>
+                            </div>
+                        </div>
+                        <div class="card mb-4">
+                            <img src="images/kmeans.png" class="card-img-top" alt="K-Means">
+                            <div class="card-body">
+                                <h5 class="card-title">K-Means</h5>
+                                <p class="card-text">Implements clustering algorithm and visualizes results.</p>
+                                <a href="project_files/kmeans.html" class="btn btn-light">View Notebook</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- Third Column -->
+                    <div class="col-md-4">
+                        <div class="card mb-4">
+                            <img src="images/titanic.jpg" class="card-img-top" alt="Titanic">
+                            <div class="card-body">
+                                <h5 class="card-title">Titanic - Data Analysis and Classification</h5>
+                                <p class="card-text">Analyzes a dataset containing information about the Titanic's passengers and predicts whether they survive.</p>
+                                <a href="project_files/titanic.html" class="btn btn-light">View Notebook</a>
+                            </div>
+                        </div>
+                        <div class="card mb-4">
+                            <img src="images/linear.png" class="card-img-top" alt="Linear Regression">
+                            <div class="card-body">
+                                <h5 class="card-title">Linear Regression</h5>
+                                <p class="card-text">Implements algorithm for statistical application and visualizes results.</p>
+                                <a href="project_files/linear.html" class="btn btn-light">View Notebook</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
