@@ -1,5 +1,5 @@
 document.getElementById("icon-and-text-projects").addEventListener("click", function() {
-    window.location.href = "../home.html";
+    window.location.href = "../index.html";
 });
 
 document.getElementById("icon-and-text-music").addEventListener("click", function() {
