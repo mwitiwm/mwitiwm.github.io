@@ -1,0 +1,1405 @@
+Name,Price ($),Quantity,Volume (mL),ABV (%),Container,Type,Cost per mL of Alcohol ($),Cost per Unit ($),Total Volume (mL),Total Alcohol Content (mL)
+Heineken,17.5,6,330,5.0,Bottle,Lager,0.177,2.917,1980,99.0
+Modelo Especial,18.95,6,355,4.5,Bottle,Lager,0.198,3.158,2130,95.85
+Pilsner Urquell,3.55,1,500,4.4,Can,Lager,0.161,3.55,500,22.0
+Corona Extra,17.5,6,330,4.6,Bottle,Lager,0.192,2.917,1980,91.08
+Peroni Nastro Azzurro,16.95,6,330,5.2,Bottle,Lager,0.165,2.825,1980,102.96
+Waterloo Dark,3.25,1,473,5.0,Can,Lager,0.137,3.25,473,23.65
+Zywiec Beer,3.15,1,500,5.3,Bottle,Lager,0.119,3.15,500,26.5
+Tyskie Beer,2.95,1,500,5.0,Can,Lager,0.118,2.95,500,25.0
+Waterloo Craft Lager,3.25,1,473,4.8,Can,Lager,0.143,3.25,473,22.704
+Tuborg Gold,2.45,1,473,5.5,Can,Lager,0.094,2.45,473,26.015
+Stella Artois,19.95,6,473,5.0,Can,Lager,0.141,3.325,2838,141.9
+Stella Artois,14.95,6,355,5.0,Can,Lager,0.14,2.492,2130,106.5
+Tyskie Beer,3.2,1,500,5.6,Bottle,Lager,0.114,3.2,500,28.0
+Tsingtao Beer,14.2,6,330,4.5,Bottle,Lager,0.159,2.367,1980,89.1
+Steam Whistle Premium Pilsner,3.85,1,473,5.0,Can,Lager,0.163,3.85,473,23.65
+Sleeman Original Lager,16.95,6,473,5.0,Can,Lager,0.119,2.825,2838,141.9
+Tatra Beer,2.85,1,500,5.5,Can,Lager,0.104,2.85,500,27.5
+Sapporo Premium Beer,20.5,6,500,5.0,Can,Lager,0.137,3.417,3000,150.0
+Stiegl Bier,3.6,1,500,4.9,Can,Lager,0.147,3.6,500,24.5
+Town Brewery Quick One Lager,3.55,1,473,4.2,Can,Lager,0.179,3.55,473,19.866
+Sleeman Clear 2.0,16.95,6,473,4.0,Can,Lager,0.149,2.825,2838,113.52
+Stonewall Light,1.85,1,275,4.0,Bottle,Lager,0.168,1.85,275,11.0
+Stella Artois,3.75,1,473,5.0,Can,Lager,0.159,3.75,473,23.65
+Sapporo Premium Beer,17.5,6,355,5.0,Bottle,Lager,0.164,2.917,2130,106.5
+Woodhouse Lager,3.35,1,473,5.0,Can,Lager,0.142,3.35,473,23.65
+Warka Beer,3.15,1,500,6.5,Bottle,Lager,0.097,3.15,500,32.5
+Locker Room Lager,2.9,1,473,4.2,Can,Lager,0.146,2.9,473,19.866
+Old Flame Hazy Blonde Kellerbier,3.5,1,473,5.0,Can,Lager,0.148,3.5,473,23.65
+Stella Artois,15.95,6,330,5.0,Bottle,Lager,0.161,2.658,1980,99.0
+Old Milwaukee Ice,12.95,6,473,5.5,Can,Lager,0.083,2.158,2838,156.09
+Moosehead Chelada,17.45,6,473,4.0,Can,Lager,0.154,2.908,2838,113.52
+Wellington Brewery Helles Lager,3.55,1,473,4.5,Can,Lager,0.167,3.55,473,21.285
+Red Stripe Lager,15.9,6,330,5.0,Bottle,Lager,0.161,2.65,1980,99.0
+Michelob Ultra,3.3,1,473,4.0,Can,Lager,0.174,3.3,473,18.92
+Modelo Especial,3.75,1,473,4.5,Can,Lager,0.176,3.75,473,21.285
+Molson Canadian,2.9,1,473,5.0,Can,Lager,0.123,2.9,473,23.65
+Miller Genuine Draft,18.5,6,473,4.7,Can,Lager,0.139,3.083,2838,133.386
+Muskoka Craft Lager,3.65,1,473,4.8,Can,Lager,0.161,3.65,473,22.704
+Molson Canadian,13.95,6,355,5.0,Can,Lager,0.131,2.325,2130,106.5
+Miller High Life,13.45,6,473,4.6,Can,Lager,0.103,2.242,2838,130.548
+Michelob Ultra,14.95,6,355,4.0,Can,Lager,0.175,2.492,2130,85.2
+Madri Excepcional,19.95,6,473,4.6,Can,Lager,0.153,3.325,2838,130.548
+Steam Whistle Premium Pilsner,17.95,6,341,5.0,Bottle,Lager,0.175,2.992,2046,102.3
+Laker Premium Lager,2.2,1,473,5.0,Can,Lager,0.093,2.2,473,23.65
+Side Launch Northbound Lager,3.1,1,473,4.4,Can,Lager,0.149,3.1,473,20.812
+Miller Lite,14.95,6,355,4.0,Can,Lager,0.175,2.492,2130,85.2
+Old Milwaukee,12.95,6,473,4.9,Can,Lager,0.093,2.158,2838,139.062
+Lezajsk Beer,2.95,1,500,5.3,Can,Lager,0.111,2.95,500,26.5
+Steam Whistle Premium Pilsner,20.25,6,473,5.0,Can,Lager,0.143,3.375,2838,141.9
+Kozel Beer,2.95,1,500,4.7,Can,Lager,0.126,2.95,500,23.5
+Old Milwaukee,2.35,1,473,4.9,Can,Lager,0.101,2.35,473,23.177
+Miller Genuine Draft,15.5,6,355,4.7,Bottle,Lager,0.155,2.583,2130,100.11
+Molson Cold Shots 6.0,2.5,1,473,6.0,Can,Lager,0.088,2.5,473,28.38
+Molson Cold Shots 6.0,5.0,4,222,6.0,Can,Lager,0.094,1.25,888,53.28
+Mill Street 100th Meridian Organic Amber Lager,3.7,1,473,5.0,Can,Lager,0.156,3.7,473,23.65
+Samuel Adams Boston Lager,3.35,1,473,4.8,Can,Lager,0.148,3.35,473,22.704
+Old Style Pilsner,2.35,1,473,5.0,Can,Lager,0.099,2.35,473,23.65
+Peroni Nastro Azzurro,3.6,1,500,5.1,Can,Lager,0.141,3.6,500,25.5
+Mill Street Original Organic Lager,16.25,6,355,4.2,Can,Lager,0.182,2.708,2130,89.46
+Laker Ice,13.45,6,473,5.5,Can,Lager,0.086,2.242,2838,156.09
+Lech Beer,2.9,1,500,5.0,Can,Lager,0.116,2.9,500,25.0
+Moosehead Lager,3.0,1,473,5.0,Can,Lager,0.127,3.0,473,23.65
+Mill Street Original Organic Lager,3.35,1,473,4.2,Can,Lager,0.169,3.35,473,19.866
+Laker Red,2.35,1,473,5.5,Can,Lager,0.09,2.35,473,26.015
+Labatt Blue,2.2,1,473,5.0,Can,Lager,0.093,2.2,473,23.65
+Lake of the Woods Lago Cerveza Mexican Style Lager,3.45,1,473,4.0,Can,Lager,0.182,3.45,473,18.92
+Laker  Ice,2.35,1,473,5.5,Can,Lager,0.09,2.35,473,26.015
+Pabst Blue Ribbon,2.35,1,473,5.0,Can,Lager,0.099,2.35,473,23.65
+Mill Street Original Organic Lager,19.95,6,473,4.2,Can,Lager,0.167,3.325,2838,119.196
+Molson Ultra,18.5,6,473,3.0,Can,Lager,0.217,3.083,2838,85.14
+Michelob Ultra,17.95,6,473,4.0,Can,Lager,0.158,2.992,2838,113.52
+Hofbrau Original Lager,3.95,1,500,5.1,Bottle,Lager,0.155,3.95,500,25.5
+Hollandia Lager Beer,2.7,1,500,5.0,Can,Lager,0.108,2.7,500,25.0
+Hop City Barking Squirrel Lager,3.6,1,473,4.8,Can,Lager,0.159,3.6,473,22.704
+Mill Street Original Organic Lager,16.95,6,341,4.2,Bottle,Lager,0.197,2.825,2046,85.932
+Holsten Maibock,2.9,1,473,7.0,Can,Lager,0.088,2.9,473,33.11
+Miller High Life,10.95,6,355,4.6,Bottle,Lager,0.112,1.825,2130,97.98
+Hollandia Lager,10.5,4,500,5.0,Can,Lager,0.105,2.625,2000,100.0
+Heineken,3.75,1,500,4.7,Can,Lager,0.16,3.75,500,23.5
+Moosehead Lager,17.45,6,473,5.0,Can,Lager,0.123,2.908,2838,141.9
+Pabst Blue Ribbon 5.9%,13.45,6,473,5.9,Can,Lager,0.08,2.242,2838,167.442
+Grolsch Premium Pilsner,2.95,1,473,5.0,Can,Lager,0.125,2.95,473,23.65
+Miller Lite,17.95,6,473,4.0,Can,Lager,0.158,2.992,2838,113.52
+Grolsch Premium Pilsner,16.95,6,473,5.0,Can,Lager,0.119,2.825,2838,141.9
+Molson Canadian,14.75,6,341,5.0,Bottle,Lager,0.144,2.458,2046,102.3
+Moosehead Lager,15.95,6,341,5.0,Bottle,Lager,0.156,2.658,2046,102.3
+Heineken,20.5,6,500,5.0,Can,Lager,0.137,3.417,3000,150.0
+Cowbell Brewing Co. Cencerro Cerveza Mexican Lager,10.95,4,355,4.5,Can,Lager,0.171,2.738,1420,63.9
+DAB Maibock,2.95,1,500,7.0,Can,Lager,0.084,2.95,500,35.0
+Creemore Springs Helles Light Lager,3.45,1,473,3.7,Can,Lager,0.197,3.45,473,17.501
+Creemore Springs Premium Lager,19.95,6,473,5.0,Can,Lager,0.141,3.325,2838,141.9
+Coors Light,14.75,6,341,4.0,Bottle,Lager,0.18,2.458,2046,81.84
+Creemore Springs Premium Lager,3.6,1,473,5.0,Can,Lager,0.152,3.6,473,23.65
+Kostritzer Schwartzbier,3.2,1,500,4.8,Can,Lager,0.133,3.2,500,24.0
+Cracked Canoe,17.45,6,473,3.5,Can,Lager,0.176,2.908,2838,99.33
+Lowenbrau Original,2.35,1,473,5.2,Can,Lager,0.096,2.35,473,24.596
+Dos Equis Lager,17.95,6,355,4.5,Bottle,Lager,0.187,2.992,2130,95.85
+Landshark Lager,17.4,6,473,4.6,Can,Lager,0.133,2.9,2838,130.548
+Bud Light,2.9,1,473,4.0,Can,Lager,0.153,2.9,473,18.92
+Budweiser,16.95,6,473,5.0,Can,Lager,0.119,2.825,2838,141.9
+Labatt BLue,12.95,6,473,5.0,Can,Lager,0.091,2.158,2838,141.9
+Coors Original,3.15,1,473,5.0,Can,Lager,0.133,3.15,473,23.65
+DAB Ultimate,17.95,6,500,4.0,Can,Lager,0.15,2.992,3000,120.0
+Busch Lager,13.45,6,473,4.7,Can,Lager,0.101,2.242,2838,133.386
+Coors Original,18.5,6,473,5.0,Can,Lager,0.13,3.083,2838,141.9
+James Ready 5.5,13.95,6,473,5.5,Can,Lager,0.089,2.325,2838,156.09
+Coors Light,16.95,6,473,4.0,Can,Lager,0.149,2.825,2838,113.52
+Corona,17.5,6,355,4.6,Can,Lager,0.179,2.917,2130,97.98
+Kingfisher Lager,2.65,1,330,4.5,Bottle,Lager,0.178,2.65,330,14.85
+Heineken Keg,41.25,1,5000,5.0,Can,Lager,0.165,41.25,5000,250.0
+Great Lakes Brewery Lager,2.9,1,473,5.0,Can,Lager,0.123,2.9,473,23.65
+Asahi Super Dry,3.45,1,500,5.0,Can,Lager,0.138,3.45,500,25.0
+Heineken,38.95,12,500,5.0,Can,Lager,0.13,3.246,6000,300.0
+Corona Light,16.95,6,330,3.4,Bottle,Lager,0.252,2.825,1980,67.32
+Henderson's FIGO Italian Pilsner,3.8,1,473,5.5,Can,Lager,0.146,3.8,473,26.015
+Amstel Ultra,15.25,6,355,3.8,Can,Lager,0.188,2.542,2130,80.94
+Golden Pheasant Beer,3.2,1,500,4.6,Bottle,Lager,0.139,3.2,500,23.0
+Hacker Pschorr Munich Gold Lager,2.75,1,500,5.5,Can,Lager,0.1,2.75,500,27.5
+Asahi Super Dry,15.95,6,330,5.0,Bottle,Lager,0.161,2.658,1980,99.0
+Estrella Damm Lager,3.6,1,500,5.4,Can,Lager,0.133,3.6,500,27.0
+Bud Light,13.95,6,355,4.0,Can,Lager,0.164,2.325,2130,85.2
+Carling,13.45,6,473,4.9,Can,Lager,0.097,2.242,2838,139.062
+Carling Ice,2.35,1,473,5.5,Can,Lager,0.09,2.35,473,26.015
+Busch Ice,2.35,1,473,5.5,Can,Lager,0.09,2.35,473,26.015
+Carlsberg Lite,2.85,1,473,4.0,Can,Lager,0.151,2.85,473,18.92
+Bud Light,15.95,6,473,4.0,Can,Lager,0.141,2.658,2838,113.52
+DAB Original,2.75,1,500,5.0,Can,Lager,0.11,2.75,500,25.0
+Budweiser,2.7,1,473,5.0,Can,Lager,0.114,2.7,473,23.65
+Carlsberg,2.95,1,473,5.0,Can,Lager,0.125,2.95,473,23.65
+Blood Brothers Blood Light,4.5,1,473,4.0,Can,Lager,0.238,4.5,473,18.92
+DAB Original,15.95,6,500,5.0,Can,Lager,0.106,2.658,3000,150.0
+Busch Ice,13.45,6,473,5.5,Can,Lager,0.086,2.242,2838,156.09
+Corona Extra,19.95,6,473,4.6,Can,Lager,0.153,3.325,2838,130.548
+Creemore Springs Premium Lager,14.95,6,355,5.0,Can,Lager,0.14,2.492,2130,106.5
+Coors Light,2.9,1,473,4.0,Can,Lager,0.153,2.9,473,18.92
+Cowbell Brewing Co. Smooth Sailing Light Lager,3.5,1,473,4.0,Can,Lager,0.185,3.5,473,18.92
+Coors Light,13.95,6,355,4.0,Can,Lager,0.164,2.325,2130,85.2
+Beyond the Pale Clean Cut,3.65,1,473,5.0,Can,Lager,0.154,3.65,473,23.65
+Big Rig Hola Cerveza,2.75,1,473,4.7,Can,Lager,0.124,2.75,473,22.231
+Creemore Springs Lot 9 Pilsner,3.6,1,473,4.7,Can,Lager,0.162,3.6,473,22.231
+Coronita Extra,9.95,6,207,4.6,Bottle,Lager,0.174,1.658,1242,57.132
+Czechvar Premium Lager,3.2,1,500,5.0,Can,Lager,0.128,3.2,500,25.0
+Cowbell Brewing Co. Shindig Lager,3.5,1,473,4.2,Can,Lager,0.176,3.5,473,19.866
+Busch Light,13.45,6,473,4.0,Can,Lager,0.118,2.242,2838,113.52
+St. Andre Bohemian Lager,2.2,1,473,4.6,Can,Lager,0.101,2.2,473,21.758
+Beck's,3.65,1,500,5.0,Can,Lager,0.146,3.65,500,25.0
+Carlsberg Lite,11.2,4,473,4.0,Can,Lager,0.148,2.8,1892,75.68
+Crest Super Lager,4.2,1,500,10.0,Can,Lager,0.084,4.2,500,50.0
+Bavaria 8.6 Original+,3.7,1,500,8.2,Can,Lager,0.09,3.7,500,41.0
+Busch,10.95,6,355,4.7,Can,Lager,0.109,1.825,2130,100.11
+Blood Brothers Mighty Eagle Lager,3.75,1,473,4.5,Can,Lager,0.176,3.75,473,21.285
+Busch Lager,2.35,1,473,4.7,Can,Lager,0.106,2.35,473,22.231
+Budweiser,14.75,6,341,5.0,Bottle,Lager,0.144,2.458,2046,102.3
+Budweiser,13.95,6,355,5.0,Can,Lager,0.131,2.325,2130,106.5
+Burdock Brewery Deluxe,4.5,1,473,4.5,Can,Lager,0.211,4.5,473,21.285
+Big Rig Premium Pilsner,3.25,1,473,5.2,Can,Lager,0.132,3.25,473,24.596
+Bobcaygeon Brewing Cottage Lager,3.5,1,473,5.0,Can,Lager,0.148,3.5,473,23.65
+Birra Moretti,3.6,1,500,4.6,Can,Lager,0.157,3.6,500,23.0
+Busch Light,2.35,1,473,4.0,Can,Lager,0.124,2.35,473,18.92
+Bavaria Premium,2.75,1,500,5.0,Can,Lager,0.11,2.75,500,25.0
+Bavaria Premium,15.95,6,500,5.0,Can,Lager,0.106,2.658,3000,150.0
+Bellwoods Brewery Ultra,3.5,1,473,4.0,Can,Lager,0.185,3.5,473,18.92
+Ace Hill Mexican Style Lager,14.95,6,355,4.0,Can,Lager,0.175,2.492,2130,85.2
+Georgian Bay Dipper,3.15,1,473,5.0,Can,Lager,0.133,3.15,473,23.65
+Fix Hellas Premium Lager,2.95,1,330,5.0,Bottle,Lager,0.179,2.95,330,16.5
+Daura Damm,16.7,6,330,5.4,Bottle,Lager,0.156,2.783,1980,106.92
+Hockley Classic,3.15,1,473,5.0,Can,Lager,0.133,3.15,473,23.65
+Left Field Brewery Bird Watcher,3.1,1,355,4.2,Can,Lager,0.208,3.1,355,14.91
+Crank Lite Lager,2.85,1,473,4.0,Can,Lager,0.151,2.85,473,18.92
+Newark Helles Lager,2.85,1,473,5.0,Can,Lager,0.121,2.85,473,23.65
+Trestle Brewing Rust Never Sleeps Marzenbier,3.5,1,473,5.4,Can,Lager,0.137,3.5,473,25.542
+Sawdust City Sagemehl Stadt Festbier,3.95,1,473,5.7,Can,Lager,0.147,3.95,473,26.961
+Weir Beer by Shawn & Ed Brewing Company,13.95,4,473,3.9,Can,Lager,0.189,3.488,1892,73.788
+Mill Street Organic Lager,52.95,24,355,4.2,Can,Lager,0.148,2.206,8520,357.84
+The Napanee Beer Company Good Damage Mexican Dark Lager,3.6,1,473,5.0,Can,Lager,0.152,3.6,473,23.65
+Parsons Brewing Soft Hues Dry Hopped Lager,4.35,1,473,5.1,Can,Lager,0.18,4.35,473,24.123
+Bellwoods Bellweiser Pilsner,4.5,1,473,4.8,Can,Lager,0.198,4.5,473,22.704
+Anderson Ale's Summer Pilsner,15.45,6,355,5.0,Can,Lager,0.145,2.575,2130,106.5
+Willibald Lager,4.0,1,473,6.5,Can,Lager,0.13,4.0,473,30.745
+Whitewater Brewing Last Light Lager,3.25,1,473,4.0,Can,Lager,0.172,3.25,473,18.92
+Zubr,2.95,1,500,5.7,Can,Lager,0.104,2.95,500,28.5
+Warsteiner Premium Pilsener,2.95,1,500,4.8,Can,Lager,0.123,2.95,500,24.0
+Stella Artois,32.5,12,330,5.0,Bottle,Lager,0.164,2.708,3960,198.0
+TOOTH AND NAIL VIM & VIGOR PILSNER,3.5,1,355,5.2,Can,Lager,0.19,3.5,355,18.46
+Whitewater Brewing Co. Legion Lager,3.65,1,473,5.0,Can,Lager,0.154,3.65,473,23.65
+Tecate,3.4,1,473,4.5,Can,Lager,0.16,3.4,473,21.285
+Stone House Premium Czech Pilsner,3.75,1,473,5.0,Can,Lager,0.159,3.75,473,23.65
+Shawn & Ed Brewing Company Salted Lime Cerveza,3.5,1,473,4.0,Can,Lager,0.185,3.5,473,18.92
+Sleeman Clear 2.0,27.5,12,355,4.0,Can,Lager,0.161,2.292,4260,170.4
+Thornbury Blue Mountain Light Lager,3.25,1,473,4.0,Can,Lager,0.172,3.25,473,18.92
+Sol,14.95,6,330,4.5,Bottle,Lager,0.168,2.492,1980,89.1
+Sleeman Clear 2.0,58.95,30,355,4.0,Can,Lager,0.138,1.965,10650,426.0
+Something in the water Liberty's Farm to Glass Pilsner,3.95,1,568,4.5,Can,Lager,0.155,3.95,568,25.56
+Sons of Kent Flywheel Blonde Lager,3.3,1,473,4.5,Can,Lager,0.155,3.3,473,21.285
+Waterloo Premium Amber,3.25,1,473,6.8,Can,Lager,0.101,3.25,473,32.164
+Paulaner Munich Helles,2.8,1,500,4.9,Can,Lager,0.114,2.8,500,24.5
+Quayle's Brewery Line 12 Helles Lager,3.45,1,473,5.0,Can,Lager,0.146,3.45,473,23.65
+Pabst Blue Ribbon,25.95,12,473,4.9,Can,Lager,0.093,2.162,5676,278.124
+Pabst Blue Ribbon,10.95,6,355,5.0,Can,Lager,0.103,1.825,2130,106.5
+Miller High Life,49.95,30,355,4.6,Can,Lager,0.102,1.665,10650,489.9
+Tennent's Export Lager,3.25,1,500,5.0,Can,Lager,0.13,3.25,500,25.0
+Mascot Brewery Lightweight Lager,2.95,1,473,4.0,Can,Lager,0.156,2.95,473,18.92
+Michelob Ultra,29.95,12,355,4.0,Can,Lager,0.176,2.496,4260,170.4
+Tiger Beer,3.4,1,500,5.0,Can,Lager,0.136,3.4,500,25.0
+Old Milwaukee Ice,3.3,1,710,5.5,Can,Lager,0.085,3.3,710,39.05
+Old Vienna Lager,13.45,6,473,5.0,Can,Lager,0.095,2.242,2838,141.9
+Muskoka Tread Lightly,3.25,1,568,4.0,Can,Lager,0.143,3.25,568,22.72
+Muddy York Una Mas Mexican Lager,3.75,1,473,4.6,Can,Lager,0.172,3.75,473,21.758
+Muskoka Tread Lightly,17.95,6,473,4.0,Can,Lager,0.158,2.992,2838,113.52
+Old Flame Brunette Munich Dunkel,3.5,1,473,4.6,Can,Lager,0.161,3.5,473,21.758
+Spearhead Brewing Decoy,3.25,1,473,4.0,Can,Lager,0.172,3.25,473,18.92
+Walkerville Honest Lager,3.4,1,473,5.0,Can,Lager,0.144,3.4,473,23.65
+Molson Canadian,27.95,12,341,5.0,Bottle,Lager,0.137,2.329,4092,204.6
+Michelob Ultra,58.95,30,355,4.0,Can,Lager,0.138,1.965,10650,426.0
+Old Milwaukee Ice,2.35,1,473,5.5,Can,Lager,0.09,2.35,473,26.015
+Spaten,2.5,1,473,5.2,Can,Lager,0.102,2.5,473,24.596
+Split Rail Brewing Co. Copper Lager,3.75,1,473,5.0,Can,Lager,0.159,3.75,473,23.65
+Lomza Beer,2.95,1,500,5.5,Can,Lager,0.107,2.95,500,27.5
+Lake Of Bays On the Hunt Pilsner,3.6,1,473,4.5,Can,Lager,0.169,3.6,473,21.285
+Moosehead Lager,59.95,30,355,5.0,Can,Lager,0.113,1.998,10650,532.5
+Miller Genuine Draft,28.95,12,355,4.7,Bottle,Lager,0.145,2.412,4260,200.22
+Sapporo Premium Beer,3.65,1,500,5.0,Can,Lager,0.146,3.65,500,25.0
+Publican House Our Pet Pilsner,3.65,1,473,4.5,Can,Lager,0.171,3.65,473,21.285
+Old Credit Pale Pilsner,3.5,1,473,5.0,Can,Lager,0.148,3.5,473,23.65
+Redneck Eatz Logger,3.25,1,473,4.7,Can,Lager,0.146,3.25,473,22.231
+Molson Canadian,16.95,6,473,5.0,Can,Lager,0.119,2.825,2838,141.9
+Peroni Nastro Azzurro Stile Capri,16.95,6,330,4.2,Bottle,Lager,0.204,2.825,1980,83.16
+Jever Pilsener,2.75,1,500,5.0,Can,Lager,0.11,2.75,500,25.0
+Henninger Lager,15.45,6,500,4.8,Can,Lager,0.107,2.575,3000,144.0
+Molson Canadian,55.95,30,355,5.0,Can,Lager,0.105,1.865,10650,532.5
+Landshark Lager,14.9,6,355,4.6,Bottle,Lager,0.152,2.483,2130,97.98
+Mill Street Blue Wave,3.7,1,473,4.8,Can,Lager,0.163,3.7,473,22.704
+Heineken,5.45,1,650,5.0,Bottle,Lager,0.168,5.45,650,32.5
+Indie Ale House Marco Polo Italian Style Pilsner,3.9,1,473,5.0,Can,Lager,0.165,3.9,473,23.65
+Heineken,17.5,6,330,5.0,Can,Lager,0.177,2.917,1980,99.0
+Michelob Ultra,34.95,12,473,4.0,Can,Lager,0.154,2.912,5676,227.04
+Holsten Festbock,2.9,1,473,7.0,Can,Lager,0.088,2.9,473,33.11
+Faxe Amber,2.45,1,473,5.2,Can,Lager,0.1,2.45,473,24.596
+Faxe Premium,2.45,1,473,5.0,Can,Lager,0.104,2.45,473,23.65
+Faxe Extra Strong,4.1,1,473,10.0,Can,Lager,0.087,4.1,473,47.3
+DAB Dark Lager,2.95,1,500,4.9,Can,Lager,0.12,2.95,500,24.5
+Lost Craft Lost Light Lager,13.95,6,355,4.0,Can,Lager,0.164,2.325,2130,85.2
+Kostritzer Edel Pils,2.55,1,500,4.8,Can,Lager,0.106,2.55,500,24.0
+Kichesippi Beer Company Sasquatch Schnitzel,3.95,1,473,5.2,Can,Lager,0.161,3.95,473,24.596
+Kingsville Brewery Light Eh! Lager,3.45,1,473,4.0,Can,Lager,0.182,3.45,473,18.92
+Corona Extra,32.95,12,330,4.6,Bottle,Lager,0.181,2.746,3960,182.16
+Corona Sunbrew,12.95,6,330,0.01,Bottle,Lager,65.404,2.158,1980,0.0
+Kichesippi Heller Highwater,3.45,1,473,4.8,Can,Lager,0.152,3.45,473,22.704
+Corona Extra,5.5,1,710,4.6,Bottle,Lager,0.168,5.5,710,32.66
+Coors Original,33.95,15,355,5.0,Can,Lager,0.128,2.263,5325,266.25
+Daft Brewing Cool Cool Cool Dry Hopped Pilsner,3.75,1,473,4.5,Can,Lager,0.176,3.75,473,21.285
+James Ready 6.0,2.35,1,473,6.0,Can,Lager,0.083,2.35,473,28.38
+Coors Light,29.85,12,473,4.0,Can,Lager,0.131,2.488,5676,227.04
+Hacker Pschorr Keller Bier,2.95,1,500,5.5,Can,Lager,0.107,2.95,500,27.5
+Collective Arts Lager,2.95,1,473,4.9,Can,Lager,0.127,2.95,473,23.177
+Harp Lager,3.3,1,500,5.0,Can,Lager,0.132,3.3,500,25.0
+Holsten Premium Pilsner,2.65,1,473,5.0,Can,Lager,0.112,2.65,473,23.65
+Bud Light,29.5,12,473,4.0,Can,Lager,0.13,2.458,5676,227.04
+Beau's Raspberry Pineapple Passion Fruit Refresher,3.85,1,473,4.5,Can,Lager,0.181,3.85,473,21.285
+Amsterdam 3 Speed Lager,3.5,1,568,4.2,Can,Lager,0.147,3.5,568,23.856
+Carlsberg Pilsner,11.95,4,473,5.0,Can,Lager,0.126,2.988,1892,94.6
+Corona Extra,3.75,1,473,4.6,Can,Lager,0.172,3.75,473,21.758
+Four Fathers Brewing Shevchenko 9 +,3.5,1,473,5.0,Can,Lager,0.148,3.5,473,23.65
+Expedition Brewing Loch Ness Lager,3.45,1,473,5.0,Can,Lager,0.146,3.45,473,23.65
+Busch Light,55.95,30,355,4.0,Can,Lager,0.131,1.865,10650,426.0
+Buzz Hemp Beer,2.0,1,355,5.0,Can,Lager,0.113,2.0,355,17.75
+Caledon Hills Brewing Co. Premium Lager,3.4,1,473,5.0,Can,Lager,0.144,3.4,473,23.65
+Carling Ice,13.45,6,473,5.5,Can,Lager,0.086,2.242,2838,156.09
+Busch,45.5,24,355,4.7,Can,Lager,0.114,1.896,8520,400.44
+Bud Light Double Lime,3.2,1,473,4.0,Can,Lager,0.169,3.2,473,18.92
+Bud Light,32.5,15,355,4.0,Can,Lager,0.153,2.167,5325,213.0
+Coors Original,14.95,6,355,5.0,Can,Lager,0.14,2.492,2130,106.5
+Coors Original,31.95,12,473,5.0,Can,Lager,0.113,2.662,5676,283.8
+Budweiser,49.95,24,355,5.0,Can,Lager,0.117,2.081,8520,426.0
+Bench Brewing Old School Light Lager,3.4,1,473,3.8,Can,Lager,0.189,3.4,473,17.974
+Coors Light,31.5,15,355,4.0,Can,Lager,0.148,2.1,5325,213.0
+Cameron's Pastime Pilsner,3.65,1,473,5.0,Can,Lager,0.154,3.65,473,23.65
+Busch,25.95,12,473,4.7,Can,Lager,0.097,2.162,5676,266.772
+Bud Light,58.95,30,355,4.0,Can,Lager,0.138,1.965,10650,426.0
+Bud Light,14.75,6,341,4.0,Bottle,Lager,0.18,2.458,2046,81.84
+Bayside Brewing Long Pond Lager,3.4,1,473,5.0,Can,Lager,0.144,3.4,473,23.65
+Boxer Ice,3.25,1,710,5.5,Can,Lager,0.083,3.25,710,39.05
+The Brick Brewing LandShark Lager,49.35,24,355,4.6,Bottle,Lager,0.126,2.056,8520,391.92
+Storm Stayed Brewing Keets Lager,2.95,1,355,4.8,Can,Lager,0.173,2.95,355,17.04
+Walkerville Purity Pilsener,3.4,1,473,5.2,Can,Lager,0.138,3.4,473,24.596
+Two Water Brewing Ferry Dock Pilsner,3.35,1,473,6.4,Can,Lager,0.111,3.35,473,30.272
+The Grove Brewing Corporation Paradise Lager,3.4,1,473,4.5,Can,Lager,0.16,3.4,473,21.285
+Side Launch Mountain Lager,3.45,1,473,4.7,Can,Lager,0.155,3.45,473,22.231
+Silversmith Brewing Helles Lager,3.45,1,473,4.2,Can,Lager,0.174,3.45,473,19.866
+Shawn & Ed Brewing Co. LagerShed Original,13.95,4,473,5.2,Can,Lager,0.142,3.488,1892,98.384
+Mill Street Organic Lager,30.95,12,341,4.2,Bottle,Lager,0.18,2.579,4092,171.864
+Midtown Pilsner,3.6,1,473,4.2,Can,Lager,0.181,3.6,473,19.866
+Miller Lite,32.95,12,473,4.0,Can,Lager,0.145,2.746,5676,227.04
+Landshark Lager,51.95,24,355,4.6,Can,Lager,0.133,2.165,8520,391.92
+James Ready 5.5,43.4,24,341,5.5,Bottle,Lager,0.096,1.808,8184,450.12
+Coors Light,27.95,12,341,4.0,Bottle,Lager,0.171,2.329,4092,163.68
+Farmer's Creed Beer Longhorn Lager,3.25,1,473,5.0,Can,Lager,0.137,3.25,473,23.65
+Keystone Light,13.45,6,473,4.0,Can,Lager,0.118,2.242,2838,113.52
+Farm League Hauler Lager,3.35,1,473,4.8,Can,Lager,0.148,3.35,473,22.704
+Equals Brewing Shake Lager,3.25,1,473,4.5,Can,Lager,0.153,3.25,473,21.285
+Coors Light,49.95,24,355,4.0,Can,Lager,0.147,2.081,8520,340.8
+Bud Light,45.95,28,341,4.0,Bottle,Lager,0.12,1.641,9548,381.92
+Collingwood Carnival Caribbean Style Lager,3.5,1,473,4.8,Can,Lager,0.154,3.5,473,22.704
+Busch Light,31.0,15,355,4.0,Can,Lager,0.146,2.067,5325,213.0
+Bud Light,45.95,24,341,4.0,Bottle,Lager,0.14,1.915,8184,327.36
+Budweiser,58.95,30,355,5.0,Can,Lager,0.111,1.965,10650,532.5
+Brauwerk North German Pilsner,3.6,1,473,5.1,Can,Lager,0.149,3.6,473,24.123
+Broadhead Brewing Pilsner,3.45,1,473,5.3,Can,Lager,0.138,3.45,473,25.069
+Beyond the Pale Evening Edition,3.75,1,473,3.8,Can,Lager,0.209,3.75,473,17.974
+Bancroft Brewing Sawmill Lager,3.5,1,473,4.5,Can,Lager,0.164,3.5,473,21.285
+Rolling Rock,43.5,24,341,4.5,Bottle,Lager,0.118,1.812,8184,368.28
+Blackburn Local Light Lager,2.75,1,473,3.9,Can,Lager,0.149,2.75,473,18.447
+Wavemaker Craft Brewery Lagerbier,3.85,1,473,5.4,Can,Lager,0.151,3.85,473,25.542
+Storm Stayed Brewing Cove,2.95,1,355,5.2,Can,Lager,0.16,2.95,355,18.46
+Wasaga Beach One Cerveza,3.15,1,473,4.5,Can,Lager,0.148,3.15,473,21.285
+Steam Whistle Pilsner,32.45,12,355,5.0,Can,Lager,0.152,2.704,4260,213.0
+Stella Artois,57.95,24,355,5.0,Can,Lager,0.136,2.415,8520,426.0
+Sleeman Original Lager,49.95,24,355,5.0,Can,Lager,0.117,2.081,8520,426.0
+Sleeman Clear 2.0,27.95,12,341,4.0,Bottle,Lager,0.171,2.329,4092,163.68
+Michelob Ultra,49.5,24,341,4.0,Bottle,Lager,0.151,2.062,8184,327.36
+Pabst Blue Ribbon,36.95,20,355,4.9,Can,Lager,0.106,1.848,7100,347.9
+Moosehead Cracked Canoe,48.5,24,341,3.5,Bottle,Lager,0.169,2.021,8184,286.44
+Miller Lite,33.95,15,355,4.0,Can,Lager,0.159,2.263,5325,213.0
+Miller Genuine Draft,46.95,24,355,4.7,Can,Lager,0.117,1.956,8520,400.44
+Lake of the Woods Lago Lager,25.95,12,355,4.5,Can,Lager,0.135,2.162,4260,191.7
+Heineken,31.95,12,330,5.0,Can,Lager,0.161,2.662,3960,198.0
+Coors Original,45.95,24,341,5.0,Bottle,Lager,0.112,1.915,8184,409.2
+Carling Old Vienna,30.95,15,355,5.0,Can,Lager,0.116,2.063,5325,266.25
+Carling Old Vienna,43.95,24,341,5.0,Bottle,Lager,0.107,1.831,8184,409.2
+Carlsberg Danish Pilsner Snap Pack,14.1,6,330,5.0,Can,Lager,0.142,2.35,1980,99.0
+Carling Lager,55.95,30,355,4.9,Can,Lager,0.107,1.865,10650,521.85
+Busch,43.95,24,341,4.7,Bottle,Lager,0.114,1.831,8184,384.648
+Budweiser,27.95,12,341,5.0,Bottle,Lager,0.137,2.329,4092,204.6
+Bud Light,49.95,24,355,4.0,Can,Lager,0.147,2.081,8520,340.8
+Budweiser,49.95,28,341,5.0,Bottle,Lager,0.105,1.784,9548,477.4
+Bancroft Brewing Rusty Husky,3.5,1,473,5.6,Can,Lager,0.132,3.5,473,26.488
+Stratford Pilsner,2.95,1,473,4.9,Can,Lager,0.127,2.95,473,23.177
+THE GLORIOUS SONS X FARM LEAGUE BREWING- TGS LAGER,3.85,1,473,4.7,Can,Lager,0.173,3.85,473,22.231
+Sleeman Original Lager,27.95,12,341,5.0,Bottle,Lager,0.137,2.329,4092,204.6
+Corona Extra,14.25,6,330,4.6,Bottle,Lager,0.156,2.375,1980,91.08
+Sleeman Honey Brown Lager,29.5,12,341,5.2,Bottle,Lager,0.139,2.458,4092,212.784
+Stella Artois,54.95,24,330,5.0,Bottle,Lager,0.139,2.29,7920,396.0
+MVP Brewing Company Premium Lager,3.25,1,473,4.5,Can,Lager,0.153,3.25,473,21.285
+Miller High Life,30.95,15,355,4.6,Can,Lager,0.126,2.063,5325,244.95
+Molson Ultra,28.5,12,355,3.0,Can,Lager,0.223,2.375,4260,127.8
+Miller High Life,43.75,24,355,4.6,Bottle,Lager,0.112,1.823,8520,391.92
+Cool Beer Blonde Lager,7.5,4,341,5.0,Bottle,Lager,0.11,1.875,1364,68.2
+Lakeport Light,43.95,24,341,4.0,Bottle,Lager,0.134,1.831,8184,327.36
+Get the Puck Out Pilsner,3.35,1,473,4.8,Can,Lager,0.148,3.35,473,22.704
+Cracked Canoe,49.95,24,355,3.5,Can,Lager,0.168,2.081,8520,298.2
+Corona Extra,52.95,24,355,4.6,Can,Lager,0.135,2.206,8520,391.92
+Carib Lager,14.95,6,330,5.2,Bottle,Lager,0.145,2.492,1980,102.96
+Busch Light,43.95,24,341,4.0,Bottle,Lager,0.134,1.831,8184,327.36
+Mythos Hellenic Lager,11.55,4,500,5.0,Can,Lager,0.116,2.888,2000,100.0
+Muskoka Brewery Stein Sized Fest Bier,3.95,1,568,5.5,Can,Lager,0.126,3.95,568,31.24
+Omnipollo Prize Pils,3.95,1,473,4.8,Can,Lager,0.174,3.95,473,22.704
+Sapporo Black Lager,12.95,4,473,5.0,Can,Lager,0.137,3.238,1892,94.6
+Michelob Ultra Organic Gold,20.95,6,473,3.8,Can,Lager,0.194,3.492,2838,107.844
+Laker Ice,40.95,24,355,5.5,Can,Lager,0.087,1.706,8520,468.6
+Lucky Lager,43.95,24,341,4.8,Bottle,Lager,0.112,1.831,8184,392.832
+Tuborg Gold,2.75,1,500,5.5,Can,Lager,0.1,2.75,500,27.5
+Ace Hill Ultra Lime,14.95,6,355,4.0,Can,Lager,0.175,2.492,2130,85.2
+Amsterdam Fria Cerveza,3.25,1,473,4.6,Can,Lager,0.149,3.25,473,21.758
+Grolsch Premium Pilsner,2.95,1,500,5.0,Can,Lager,0.118,2.95,500,25.0
+Lezajsk Beer,3.1,1,500,5.5,Bottle,Lager,0.113,3.1,500,27.5
+Guinness Hop House 13,2.95,1,500,5.0,Can,Lager,0.118,2.95,500,25.0
+Anderson Craft Ales - Autumn,15.45,6,355,5.5,Can,Lager,0.132,2.575,2130,117.15
+Zywiec Beer,2.95,1,500,5.5,Can,Lager,0.107,2.95,500,27.5
+Toboggan Brewing Holy Roller Lager,3.35,1,473,4.7,Can,Lager,0.151,3.35,473,22.231
+Stockyards Brewing Reunion Mexican Lager,3.25,1,473,4.0,Can,Lager,0.172,3.25,473,18.92
+Wellington Brewery Boot Lite Lager,3.35,1,473,3.3,Can,Lager,0.215,3.35,473,15.609
+Brew Aid,3.35,1,473,4.5,Can,Lager,0.157,3.35,473,21.285
+Steam Whistle Playmate Igloo Cooler Gift Pack,39.95,6,355,5.0,Can,Lager,0.375,6.658,2130,106.5
+Sleeman Clear 2.0,49.95,24,355,4.0,Can,Lager,0.147,2.081,8520,340.8
+Silversmith Brewing The Black Lager,3.75,1,473,5.0,Can,Lager,0.159,3.75,473,23.65
+Super Bock,14.5,6,330,5.8,Bottle,Lager,0.126,2.417,1980,114.84
+Rolling Rock,17.95,6,473,4.5,Can,Lager,0.141,2.992,2838,127.71
+Perth Brewery Last Duel Lager,3.45,1,473,4.5,Can,Lager,0.162,3.45,473,21.285
+Rally Beer Company Base Layer Lager,9.95,4,355,4.0,Can,Lager,0.175,2.488,1420,56.8
+Singha,2.95,1,490,5.0,Can,Lager,0.12,2.95,490,24.5
+Peroni Nastro Azzurro Slim Can,16.95,6,330,5.1,Can,Lager,0.168,2.825,1980,100.98
+Triple Bogey Light,2.95,1,473,3.9,Can,Lager,0.16,2.95,473,18.447
+Old Style Pilsner,12.6,6,473,5.0,Can,Lager,0.089,2.1,2838,141.9
+Nickel Brook Lager,2.85,1,473,4.3,Can,Lager,0.14,2.85,473,20.339
+Old Milwaukee,45.5,24,355,5.0,Can,Lager,0.107,1.896,8520,426.0
+Molson Canadian,31.5,12,473,5.0,Can,Lager,0.111,2.625,5676,283.8
+Martens Gold,2.8,1,500,4.6,Can,Lager,0.122,2.8,500,23.0
+Triple Bogey Lager,2.95,1,473,4.9,Can,Lager,0.127,2.95,473,23.177
+Steam Whistle Pilsner 5 L Keg,35.95,1,5000,5.0,Can,Lager,0.144,35.95,5000,250.0
+Sons of Kent El Camino 6 Pack,19.95,6,473,4.0,Can,Lager,0.176,3.325,2838,113.52
+Michelob Ultra 24x355ml,53.5,24,355,4.0,Can,Lager,0.157,2.229,8520,340.8
+London Brewing Organic Pilsner,3.45,1,473,5.0,Can,Lager,0.146,3.45,473,23.65
+Storyteller Lager,3.1,1,473,5.0,Can,Lager,0.131,3.1,473,23.65
+Sons of Kent Brewing Festbier Oktoberfest,3.65,1,473,5.5,Can,Lager,0.14,3.65,473,26.015
+Sleeman Clear 2.0,45.95,24,341,4.0,Bottle,Lager,0.14,1.915,8184,327.36
+Sleeman Clear 2.0,14.75,6,341,4.0,Bottle,Lager,0.18,2.458,2046,81.84
+Original Local Lager,3.45,1,473,5.0,Can,Lager,0.146,3.45,473,23.65
+Kaiser Beer,2.7,1,500,5.0,Can,Lager,0.108,2.7,500,25.0
+Miller Lite,55.95,30,355,4.0,Can,Lager,0.131,1.865,10650,426.0
+La Cerveceria Astilleros Salted Lime Lager,3.55,1,473,4.5,Can,Lager,0.167,3.55,473,21.285
+Labatt Blue,3.6,1,740,5.0,Can,Lager,0.097,3.6,740,37.0
+Muddy York Gaslight Helles,3.75,1,473,5.4,Can,Lager,0.147,3.75,473,25.542
+Riverhead Cerveza Mexican Lager,3.45,1,473,4.5,Can,Lager,0.162,3.45,473,21.285
+Labatt Blue,25.45,12,473,5.0,Can,Lager,0.09,2.121,5676,283.8
+Junction Craft Pilsner,3.35,1,473,4.6,Can,Lager,0.154,3.35,473,21.758
+Lowenbrau Original,12.6,6,473,5.2,Can,Lager,0.085,2.1,2838,147.576
+Radeberger Pilsner,18.7,6,500,4.8,Can,Lager,0.13,3.117,3000,144.0
+Labatt Blue,43.95,24,341,5.0,Bottle,Lager,0.107,1.831,8184,409.2
+Innis & Gunn Lager Beer,2.65,1,473,4.6,Can,Lager,0.122,2.65,473,21.758
+Lake of the Woods Channel Marker Light Lager,3.75,1,473,4.0,Can,Lager,0.198,3.75,473,18.92
+Muskoka Brewery Craft Lager,19.95,6,473,4.8,Can,Lager,0.146,3.325,2838,136.224
+Imperial City Brew House Cerveza Mexican Lager,3.25,1,473,4.5,Can,Lager,0.153,3.25,473,21.285
+Sleeman Original Lager,32.5,15,355,5.0,Can,Lager,0.122,2.167,5325,266.25
+Glory Days Premium Lager,3.1,1,473,5.0,Can,Lager,0.131,3.1,473,23.65
+MacKinnon Brothers Philomena Pilsner,3.5,1,473,4.1,Can,Lager,0.18,3.5,473,19.393
+Coors Light,45.95,24,341,4.0,Bottle,Lager,0.14,1.915,8184,327.36
+Labatt Maximum Ice,3.0,1,473,7.1,Can,Lager,0.089,3.0,473,33.583
+Junction Krispy Light Lager,3.15,1,473,3.9,Can,Lager,0.171,3.15,473,18.447
+Coors Original,59.95,30,355,5.0,Can,Lager,0.113,1.998,10650,532.5
+Heineken,5.65,1,710,5.0,Can,Lager,0.159,5.65,710,35.5
+Karlovacko Beer,2.9,1,500,5.0,Can,Lager,0.116,2.9,500,25.0
+Busch,31.0,15,355,4.7,Can,Lager,0.124,2.067,5325,250.275
+Busch Lager,52.95,30,355,4.7,Can,Lager,0.106,1.765,10650,500.55
+Gosser Beer,2.8,1,500,5.2,Can,Lager,0.108,2.8,500,26.0
+Ace Hill Ultra,14.95,6,355,4.0,Can,Lager,0.175,2.492,2130,85.2
+Carib Premium Lager,14.95,6,330,5.0,Bottle,Lager,0.151,2.492,1980,99.0
+Cameron's Captain's Log Lager,3.25,1,473,5.0,Can,Lager,0.137,3.25,473,23.65
+Aecht Schlenkerla Rauchbier,4.9,1,500,5.1,Bottle,Lager,0.192,4.9,500,25.5
+Heineken,32.5,12,330,5.0,Bottle,Lager,0.164,2.708,3960,198.0
+Brava Premium Lager,43.95,24,341,5.0,Bottle,Lager,0.107,1.831,8184,409.2
+Czechvar Dark Lager,3.1,1,500,4.7,Can,Lager,0.132,3.1,500,23.5
+Coors Light,55.95,30,355,4.0,Can,Lager,0.131,1.865,10650,426.0
+Berliner Pilsner,2.8,1,500,5.0,Can,Lager,0.112,2.8,500,25.0
+Budweiser,31.5,12,473,5.0,Can,Lager,0.111,2.625,5676,283.8
+Bitburger Premium Pilsner,3.0,1,500,5.0,Can,Lager,0.12,3.0,500,25.0
+Corona,57.95,24,330,4.6,Bottle,Lager,0.159,2.415,7920,364.32
+4est Brewery 4est Lager,3.45,1,473,5.0,Can,Lager,0.146,3.45,473,23.65
+Bench Brewing Lincoln Lager,3.5,1,473,4.4,Can,Lager,0.168,3.5,473,20.812
+Ace Hill Pilsner,3.55,1,473,4.9,Can,Lager,0.153,3.55,473,23.177
+Amsterdam Blonde Lager,3.4,1,568,5.0,Can,Lager,0.12,3.4,568,28.4
+Erdinger Pikantus,4.25,1,500,7.3,Bottle,Lager,0.116,4.25,500,36.5
+Doppel Hirsch Doppel Bock,4.6,1,500,7.2,Can,Lager,0.128,4.6,500,36.0
+Boshkung Brewery Two Putt Pilsner,3.6,1,473,4.7,Can,Lager,0.162,3.6,473,22.231
+Kronenbourg 1664,15.9,6,330,4.7,Bottle,Lager,0.171,2.65,1980,93.06
+Faxe 10% Extra Strong,4.25,1,500,10.0,Can,Lager,0.085,4.25,500,50.0
+Wernesgruner Pilsner,3.0,1,500,4.9,Can,Lager,0.122,3.0,500,24.5
+Trestle Brewing Co. Arrow Pilsner,3.45,1,473,5.0,Can,Lager,0.146,3.45,473,23.65
+Stonewall Light,7.8,4,355,4.0,Can,Lager,0.137,1.95,1420,56.8
+Lakeport Light,45.5,24,355,4.0,Can,Lager,0.134,1.896,8520,340.8
+Innis & Gunn Lager,2.95,1,500,4.6,Can,Lager,0.128,2.95,500,23.0
+Sleeman Original Lager,14.75,6,341,5.0,Bottle,Lager,0.144,2.458,2046,102.3
+Railway City Playa Cerveza,3.25,1,473,4.5,Can,Lager,0.153,3.25,473,21.285
+Moosehead Lager,46.5,24,341,5.0,Bottle,Lager,0.114,1.938,8184,409.2
+Molson Canadian,32.5,15,355,5.0,Can,Lager,0.122,2.167,5325,266.25
+Moosehead Lager,49.95,24,355,5.0,Can,Lager,0.117,2.081,8520,426.0
+Moosehead Lager,33.95,15,355,5.0,Can,Lager,0.128,2.263,5325,266.25
+Muskoka Craft Lager,31.95,12,355,4.8,Can,Lager,0.156,2.662,4260,204.48
+Kokanee,14.5,6,355,5.2,Can,Lager,0.131,2.417,2130,110.76
+MacKinnon Philly Light Lager,2.75,1,355,3.8,Can,Lager,0.204,2.75,355,13.49
+Labatt Blue,31.0,15,355,5.0,Can,Lager,0.116,2.067,5325,266.25
+Hofbrau Dunkel,3.95,1,500,5.5,Bottle,Lager,0.144,3.95,500,27.5
+London Brewing Organic Lager,3.35,1,473,4.7,Can,Lager,0.151,3.35,473,22.231
+Labatt Blue,49.95,30,355,5.0,Can,Lager,0.094,1.665,10650,532.5
+Labatt Blue Light,45.5,24,355,4.0,Can,Lager,0.134,1.896,8520,340.8
+Labatt Blue Light,43.95,24,341,4.0,Bottle,Lager,0.134,1.831,8184,327.36
+Holman Brewing Bear Naked Lager,3.5,1,473,5.0,Can,Lager,0.148,3.5,473,23.65
+Haliburton Forest Amber Logger,3.6,1,473,4.2,Can,Lager,0.181,3.6,473,19.866
+Cool Beer Blonde Lager,7.6,4,355,5.0,Can,Lager,0.107,1.9,1420,71.0
+Holsten Premium Pilsner,2.6,1,500,5.0,Can,Lager,0.104,2.6,500,25.0
+Caledon Hills Bohemian Pils,3.4,1,473,4.2,Can,Lager,0.171,3.4,473,19.866
+Corona Extra,4.85,1,710,4.6,Bottle,Lager,0.148,4.85,710,32.66
+Busch Ice,55.95,30,355,6.0,Can,Lager,0.088,1.865,10650,639.0
+Budweiser,32.5,15,355,5.0,Can,Lager,0.122,2.167,5325,266.25
+Buzz Hemp Beer,8.0,4,355,5.0,Can,Lager,0.113,2.0,1420,71.0
+Bud Light,32.5,15,341,4.0,Bottle,Lager,0.159,2.167,5115,204.6
+Anderson Craft Ales Czech Pilsner,15.45,6,355,4.6,Can,Lager,0.158,2.575,2130,97.98
+Ace Hill Vienna Lager,3.55,1,473,5.0,Can,Lager,0.15,3.55,473,23.65
+Faxe Premium Lager,2.7,1,500,5.0,Can,Lager,0.108,2.7,500,25.0
+Saulter Street Brewery Riverside Pilsner,3.5,1,473,4.7,Can,Lager,0.157,3.5,473,22.231
+Labatt Blue,12.95,6,341,5.0,Bottle,Lager,0.127,2.158,2046,102.3
+Holsten Maibock,2.95,1,500,7.0,Can,Lager,0.084,2.95,500,35.0
+Lakeport Honey Lager,43.95,24,341,5.0,Bottle,Lager,0.107,1.831,8184,409.2
+Block Three Brewing Hollinger Helles,3.5,1,473,4.5,Can,Lager,0.164,3.5,473,21.285
+Steam Whistle Premium Pilsner,17.95,6,355,5.0,Can,Lager,0.169,2.992,2130,106.5
+Sleeman Original Lager,45.95,24,341,5.0,Bottle,Lager,0.112,1.915,8184,409.2
+Muskoka Brewery Tread Lightly,45.95,24,355,4.0,Can,Lager,0.135,1.915,8520,340.8
+Side Launch Light Lager,14.95,6,355,4.0,Can,Lager,0.175,2.492,2130,85.2
+Molson Canadian,49.95,24,355,5.0,Can,Lager,0.117,2.081,8520,426.0
+Sam Adams Wicked Easy,3.35,1,473,4.7,Can,Lager,0.151,3.35,473,22.231
+Mill Street Organic Lager,30.95,12,355,4.2,Can,Lager,0.173,2.579,4260,178.92
+Holsten Festbock,2.95,1,500,7.0,Can,Lager,0.084,2.95,500,35.0
+Laker Premium Lager,39.5,24,341,5.0,Bottle,Lager,0.097,1.646,8184,409.2
+Laker Lager,40.95,24,355,5.0,Can,Lager,0.096,1.706,8520,426.0
+Last Spike Brewery Bronc Beer,2.95,1,473,5.0,Can,Lager,0.125,2.95,473,23.65
+Miller Genuine Draught,32.95,12,473,4.7,Can,Lager,0.124,2.746,5676,266.772
+Labatt Blue,45.5,24,355,5.0,Can,Lager,0.107,1.896,8520,426.0
+James Ready 5.5,54.95,30,355,5.5,Can,Lager,0.094,1.832,10650,585.75
+Lakeport Pilsener,43.95,24,341,5.0,Bottle,Lager,0.107,1.831,8184,409.2
+Banks Caribbean Lager,13.05,6,330,4.7,Bottle,Lager,0.14,2.175,1980,93.06
+Muskoka Tread Lightly,27.95,12,355,4.0,Can,Lager,0.164,2.329,4260,170.4
+Laker Light,39.5,24,341,4.0,Bottle,Lager,0.121,1.646,8184,327.36
+Lakeport Pilsener,45.5,24,355,5.0,Can,Lager,0.107,1.896,8520,426.0
+Labatt Blue,30.5,15,341,5.0,Bottle,Lager,0.119,2.033,5115,255.75
+Eggenberg Brewery's Samichlaus,6.25,1,330,14.0,Bottle,Lager,0.135,6.25,330,46.2
+Laker Ice,39.5,24,341,5.5,Bottle,Lager,0.088,1.646,8184,450.12
+Coors Original,52.95,24,355,5.0,Can,Lager,0.124,2.206,8520,426.0
+Coors Light,45.95,28,341,4.0,Bottle,Lager,0.12,1.641,9548,381.92
+Carling Lager,45.5,24,355,4.9,Can,Lager,0.109,1.896,8520,417.48
+Grolsch Premium Pilsner,17.35,4,450,5.0,Bottle,Lager,0.193,4.338,1800,90.0
+Carling,43.95,24,341,4.9,Bottle,Lager,0.11,1.831,8184,401.016
+Bud Light,27.95,12,341,4.0,Bottle,Lager,0.171,2.329,4092,163.68
+Budweiser,45.95,24,341,5.0,Bottle,Lager,0.112,1.915,8184,409.2
+Budweiser,32.5,15,341,5.0,Bottle,Lager,0.127,2.167,5115,255.75
+Stella Artois,31.95,12,355,5.0,Can,Lager,0.15,2.662,4260,213.0
+Old Milwaukee,43.95,24,341,4.6,Bottle,Lager,0.117,1.831,8184,376.464
+Railway City Merry & Bright Cranberry Lager,3.45,1,473,5.5,Can,Lager,0.133,3.45,473,26.015
+Lock Street Brewery Port Side Pilsner,3.75,1,473,5.0,Can,Lager,0.159,3.75,473,23.65
+Molson Ultra,47.95,24,341,3.0,Bottle,Lager,0.195,1.998,8184,245.52
+Molson Canadian,45.95,28,341,5.0,Bottle,Lager,0.096,1.641,9548,477.4
+Schneider Aventinus Eisbock,4.35,1,330,11.9,Bottle,Lager,0.111,4.35,330,39.27
+Keo Beer,2.95,1,330,4.5,Bottle,Lager,0.199,2.95,330,14.85
+Mill Street Big Little Lager,28.5,12,355,3.5,Can,Lager,0.191,2.375,4260,149.1
+Red Thread Brewing Make Tracks Craft Lager,3.25,1,473,5.0,Can,Lager,0.137,3.25,473,23.65
+Miller Lite,44.95,24,341,4.0,Bottle,Lager,0.137,1.873,8184,327.36
+Labatt Blue,24.5,12,341,5.0,Bottle,Lager,0.12,2.042,4092,204.6
+Laker Ice,25.95,12,473,5.5,Can,Lager,0.083,2.162,5676,312.18
+Labatt Crystal,43.95,24,341,5.0,Bottle,Lager,0.107,1.831,8184,409.2
+Creemore Springs Urbock,3.75,1,473,6.0,Can,Lager,0.132,3.75,473,28.38
+Collective Arts Audio Visual Lager,3.35,1,473,4.8,Can,Lager,0.148,3.35,473,22.704
+Cowbell Brewing Co. Shindig Lager,30.95,12,355,4.2,Can,Lager,0.173,2.579,4260,178.92
+Steam Whistle Pilsner,57.25,24,341,5.0,Bottle,Lager,0.14,2.385,8184,409.2
+Carling Light,45.5,24,355,4.0,Can,Lager,0.134,1.896,8520,340.8
+Carling Light,43.95,24,341,4.0,Bottle,Lager,0.134,1.831,8184,327.36
+Carling Light,55.95,30,355,4.0,Can,Lager,0.131,1.865,10650,426.0
+Stockyards Brewing Festbier,3.4,1,473,5.5,Can,Lager,0.131,3.4,473,26.015
+Pabst Blue Ribbon Light,39.95,24,341,4.0,Bottle,Lager,0.122,1.665,8184,327.36
+Northern Superior Lager,15.0,6,355,5.0,Can,Lager,0.141,2.5,2130,106.5
+Caledon Hills Deadly Dark Lager,3.45,1,473,5.2,Can,Lager,0.14,3.45,473,24.596
+Fix Hellas Premium Lager,11.95,4,500,5.0,Can,Lager,0.12,2.988,2000,100.0
+Mythos Hellenic Lager,15.95,6,330,5.0,Bottle,Lager,0.161,2.658,1980,99.0
+Creemore Oktoberfest,3.95,1,473,5.5,Can,Lager,0.152,3.95,473,26.015
+Hofbrau Oktoberfestbier,4.2,1,500,6.3,Bottle,Lager,0.133,4.2,500,31.5
+Busch,24.5,12,341,4.7,Bottle,Lager,0.127,2.042,4092,192.324
+Busch Light,10.75,6,355,4.0,Can,Lager,0.126,1.792,2130,85.2
+Dagger Brew Corp,9.5,4,533,4.0,Can,Lager,0.111,2.375,2132,85.28
+Barley Days Loyalist Lager,2.95,1,473,4.5,Can,Lager,0.139,2.95,473,21.285
+Fenelon Falls Brewing Co. Vienna Lager,3.5,1,473,5.0,Can,Lager,0.148,3.5,473,23.65
+Paulaner Oktoberfest 'Wiesn' Bier,4.0,1,500,6.0,Can,Lager,0.133,4.0,500,30.0
+Horseshoe Valley Brewing Company Cold Water Clear Lager,3.0,1,473,4.0,Can,Lager,0.159,3.0,473,18.92
+Moosehead Light,52.95,24,355,4.0,Can,Lager,0.155,2.206,8520,340.8
+Keystone Light,53.95,30,355,4.0,Can,Lager,0.127,1.798,10650,426.0
+Laker Light,43.95,24,355,4.0,Can,Lager,0.129,1.831,8520,340.8
+Labatt Blue Light,29.5,15,341,4.0,Bottle,Lager,0.144,1.967,5115,204.6
+All or Nothing Brewhouse Pushin the Limits India Pale Lager,3.3,1,473,4.9,Can,Lager,0.142,3.3,473,23.177
+Kokanee,45.95,24,341,5.2,Bottle,Lager,0.108,1.915,8184,425.568
+No Name Beer,8.55,6,341,5.0,Bottle,Lager,0.084,1.425,2046,102.3
+Guinness Draught,26.4,8,440,4.2,Can,Ale,0.179,3.3,3520,147.84
+Guinness Draught,13.4,4,440,4.2,Can,Ale,0.181,3.35,1760,73.92
+Collective Arts Life in the Clouds,3.85,1,473,6.1,Can,Ale,0.133,3.85,473,28.853
+Dragon Stout,15.95,6,284,7.5,Bottle,Ale,0.125,2.658,1704,127.8
+Collective Arts Ransack The Universe IPA,3.85,1,473,6.8,Can,Ale,0.12,3.85,473,32.164
+Whitewater Brewing North Meets South Nordic Pale Ale,3.65,1,473,4.6,Can,Ale,0.168,3.65,473,21.758
+Wellington Brewery Upside IPA,3.85,1,473,6.8,Can,Ale,0.12,3.85,473,32.164
+Whitewater Brewing Co. High Tide,3.85,1,473,6.0,Can,Ale,0.136,3.85,473,28.38
+Waterloo IPA,3.25,1,473,5.2,Can,Ale,0.132,3.25,473,24.596
+Town Brewery Square Wheels Hazy IPA,4.25,1,473,6.2,Can,Ale,0.145,4.25,473,29.326
+Woodhouse Nordic Pale Ale,3.5,1,473,5.2,Can,Ale,0.142,3.5,473,24.596
+Woodhouse IPA,3.5,1,473,6.0,Can,Ale,0.123,3.5,473,28.38
+Town Brewery Outside Jokes,3.95,1,473,5.0,Can,Ale,0.167,3.95,473,23.65
+Whitewater Brewing Co. Blood Moon Orange Sour,3.85,1,473,4.8,Can,Ale,0.17,3.85,473,22.704
+Sweetwater Ipa,3.8,1,473,6.3,Can,Ale,0.128,3.8,473,29.799
+Wellington Brewery Snake Eyes Dry Hopped Peach Sour,4.15,1,473,5.2,Can,Ale,0.169,4.15,473,24.596
+Wellington Brewery Special Pale Ale,3.65,1,473,4.5,Can,Ale,0.171,3.65,473,21.285
+Side Launch Anyday Session IPA,3.5,1,473,4.0,Can,Ale,0.185,3.5,473,18.92
+Tobermory Brewing Bruce Trail Blonde Ale,3.45,1,473,5.2,Can,Ale,0.14,3.45,473,24.596
+Tobermory Brewing Co. FireBan Amber Ale,3.45,1,473,4.9,Can,Ale,0.149,3.45,473,23.177
+Wellington Brewery Lazy Tiger Little IPA,3.75,1,473,3.6,Can,Ale,0.22,3.75,473,17.028
+Rickard's Red,3.25,1,473,5.2,Can,Ale,0.132,3.25,473,24.596
+Troubadour - Magma,4.85,1,330,9.0,Bottle,Ale,0.163,4.85,330,29.7
+Sons of Kent Brewing 8 Track XPA,3.65,1,473,5.7,Can,Ale,0.135,3.65,473,26.961
+St-Ambroise Apricot Wheat Ale,3.2,1,473,5.0,Can,Ale,0.135,3.2,473,23.65
+Superflux Colour & Shape IPA,4.95,1,473,6.5,Can,Ale,0.161,4.95,473,30.745
+Rally Trail Blazer Session Ale,9.95,4,355,4.9,Can,Ale,0.143,2.488,1420,69.58
+Smithwick's Ale,3.35,1,500,5.0,Can,Ale,0.134,3.35,500,25.0
+Schneider Aventinus,4.25,1,500,8.2,Can,Ale,0.104,4.25,500,41.0
+Sawdust City Jalapeno Lime Kettle Sour,3.95,1,473,3.5,Can,Ale,0.239,3.95,473,16.555
+"Refined Fool Catstronaut, Session Hazy IPA",3.95,1,473,4.5,Can,Ale,0.186,3.95,473,21.285
+Sons of Kent Drift,3.85,1,473,6.0,Can,Ale,0.136,3.85,473,28.38
+"Refined Fool Van Full of Weirdos, Juicy IPA",3.75,1,473,6.2,Can,Ale,0.128,3.75,473,29.326
+Refined Fool Florida Stole My Parents OJ IPA,4.5,1,473,6.5,Can,Ale,0.146,4.5,473,30.745
+Side Launch Hibiscus Sour,3.85,1,473,4.2,Can,Ale,0.194,3.85,473,19.866
+Rochefort 10,5.35,1,330,11.3,Bottle,Ale,0.143,5.35,330,37.29
+Railway City Dead Elephant IPA,3.65,1,473,6.8,Can,Ale,0.113,3.65,473,32.164
+Side Launch Passionate Sour,3.95,1,473,4.3,Can,Ale,0.194,3.95,473,20.339
+Sleeman Clear 2.0 Lime,3.2,1,473,4.0,Can,Ale,0.169,3.2,473,18.92
+Side Launch Wheat Beer,3.65,1,473,5.3,Can,Ale,0.146,3.65,473,25.069
+Rainhard Brewing Armed N' Citra Dry Hopped Pale Ale,3.85,1,473,5.2,Can,Ale,0.157,3.85,473,24.596
+Manitoulin Brewing Cup & Saucer,3.6,1,473,5.0,Can,Ale,0.152,3.6,473,23.65
+Palm Breweries Rodenbach Grand Cru,3.9,1,330,6.0,Bottle,Ale,0.197,3.9,330,19.8
+Rochefort 8,5.1,1,330,9.2,Bottle,Ale,0.168,5.1,330,30.36
+Old Flame Vienna Lager Red,3.5,1,473,5.1,Can,Ale,0.145,3.5,473,24.123
+Nickel Brook Naughty Neighbour American Pale Ale,3.55,1,473,4.9,Can,Ale,0.153,3.55,473,23.177
+Nickel Brook Jam Stand Raspberry with Vanilla & Hibiscus,3.95,1,473,4.0,Can,Ale,0.209,3.95,473,18.92
+Nickel Brook Head Stock West Coast-Style IPA,3.75,1,473,7.0,Can,Ale,0.113,3.75,473,33.11
+"Refined Fool, Zane Lost His Avocado Bag, Brut IPA",3.75,1,473,7.6,Can,Ale,0.104,3.75,473,35.948
+Railway City Whistle Stop Hazy Pale Ale,3.55,1,473,5.0,Can,Ale,0.15,3.55,473,23.65
+Muskoka Brewery Nitro Drifter Hazy Pale Ale,3.75,1,473,5.6,Can,Ale,0.142,3.75,473,26.488
+Omnipollo Zodiak IPA,4.2,1,473,6.2,Can,Ale,0.143,4.2,473,29.326
+Omnipollo Lorpan IPA,4.25,1,473,6.8,Can,Ale,0.132,4.25,473,32.164
+Left Field Brewery Greenwood IPA,3.9,1,355,6.3,Can,Ale,0.174,3.9,355,22.365
+Nickel Brook Wicked Awesome IPA,3.5,1,473,6.5,Can,Ale,0.114,3.5,473,30.745
+Muskoka Cream Ale,3.7,1,473,5.0,Can,Ale,0.156,3.7,473,23.65
+O hara's Irish Nitro Stout,3.7,1,440,4.3,Can,Ale,0.196,3.7,440,18.92
+Mill St. Cobblestone Stout,3.6,1,404,4.2,Can,Ale,0.212,3.6,404,16.968
+Kronenbourg 1664 Tricolour Mixer Pack,17.95,6,355,5.0,Can,Ale,0.169,2.992,2130,106.5
+Manitoulin Brewing Killarney Cream Ale,3.7,1,473,5.0,Can,Ale,0.156,3.7,473,23.65
+Lost Craft Grapefruit IPA,3.5,1,473,5.5,Can,Ale,0.135,3.5,473,26.015
+KONA BIG WAVE GOLDEN ALE,20.15,6,355,4.3,Bottle,Ale,0.22,3.358,2130,91.59
+Muskoka Mad Tom IPA,3.85,1,473,6.4,Can,Ale,0.127,3.85,473,30.272
+Manitoulin Brewing Swingbridge Blonde Ale,3.5,1,473,5.2,Can,Ale,0.142,3.5,473,24.596
+Lion Stout,3.95,1,473,8.8,Can,Ale,0.095,3.95,473,41.624
+Muskoka Detour,3.7,1,473,4.3,Can,Ale,0.182,3.7,473,20.339
+Left Field Brewery Ice Cold Beer,2.95,1,355,4.5,Can,Ale,0.185,2.95,355,15.975
+Muskoka Detour,20.95,6,473,4.3,Can,Ale,0.172,3.492,2838,122.034
+Maclay's Traditional Pale Ale,2.35,1,473,5.0,Can,Ale,0.099,2.35,473,23.65
+Lost Craft Revivale,3.35,1,473,4.8,Can,Ale,0.148,3.35,473,22.704
+Left Field Sno-Cone Lemon Lime Gose,3.95,1,355,5.0,Can,Ale,0.223,3.95,355,17.75
+La Trappe Quadrupel Ale,12.75,1,750,10.0,Bottle,Ale,0.17,12.75,750,75.0
+Leffe Blonde,19.1,6,330,6.5,Bottle,Ale,0.148,3.183,1980,128.7
+Lambiek Fabriek Juicy & Wild,11.6,1,750,8.8,Bottle,Ale,0.176,11.6,750,66.0
+La Trappe Tripel,10.0,1,750,8.0,Bottle,Ale,0.167,10.0,750,60.0
+Lower West Side West Coast IPA,3.5,1,473,6.0,Can,Ale,0.123,3.5,473,28.38
+Kilkenny Irish Ale,12.65,4,500,4.3,Can,Ale,0.147,3.162,2000,86.0
+Henderson's Best,3.5,1,473,5.5,Can,Ale,0.135,3.5,473,26.015
+Kronenbourg 1664,3.3,1,473,5.0,Can,Ale,0.14,3.3,473,23.65
+Henderson x Rush Canadian Golden Ale,3.4,1,473,5.5,Can,Ale,0.131,3.4,473,26.015
+Guinness Extra Stout,17.15,6,330,5.0,Bottle,Ale,0.173,2.858,1980,99.0
+Great Lakes Brewery HazeMama,3.65,1,473,7.0,Can,Ale,0.11,3.65,473,33.11
+Great Lakes Brewery  Pompous Ass English Ale,3.0,1,473,4.2,Can,Ale,0.151,3.0,473,19.866
+Great Lakes Brewery  Canuck Pale Ale,3.25,1,473,5.2,Can,Ale,0.132,3.25,473,24.596
+"Henderson's ""Food Truck"" Lagered Blonde",3.3,1,473,4.8,Can,Ale,0.145,3.3,473,22.704
+Great Lakes Brewery Octopus Wants To Fight IPA,3.65,1,473,6.2,Can,Ale,0.124,3.65,473,29.326
+Great Lakes Brewery Sunnyside Session IPA,3.25,1,473,3.9,Can,Ale,0.176,3.25,473,18.447
+Goose Island IPA,3.25,1,473,5.9,Can,Ale,0.116,3.25,473,27.907
+Hockley Dark,3.15,1,473,5.0,Can,Ale,0.133,3.15,473,23.65
+Henderson's Brewing Co. Pearson Express IPA,3.65,1,473,6.5,Can,Ale,0.119,3.65,473,30.745
+Great Lakes Brewery BURST!,3.25,1,473,4.5,Can,Ale,0.153,3.25,473,21.285
+Hop Valley Bubble Stash,3.65,1,473,6.2,Can,Ale,0.124,3.65,473,29.326
+Goodlot Mellow Gold,3.5,1,473,4.7,Can,Ale,0.157,3.5,473,22.231
+Four Fathers Brewing The Starter,3.5,1,473,4.8,Can,Ale,0.154,3.5,473,22.704
+Flying Monkeys Juicy Ass,20.95,6,473,6.5,Can,Ale,0.114,3.492,2838,184.47
+Flying Monkeys Sparklepuff Triple IPA,4.95,1,473,10.2,Can,Ale,0.103,4.95,473,48.246
+Flying Monkeys Crowd Surf Motel Passion Fruit IPA,3.95,1,473,7.0,Can,Ale,0.119,3.95,473,33.11
+Guinness Draught,3.8,1,500,4.2,Can,Ale,0.181,3.8,500,21.0
+Erdinger Weissbier,3.95,1,500,5.2,Bottle,Ale,0.152,3.95,500,26.0
+Flying Monkeys Rainbows & Smiles Sherbet DIPA,4.35,1,473,8.1,Can,Ale,0.114,4.35,473,38.313
+Flying Monkeys Quantum Hugs Cold IPA,3.75,1,473,6.1,Can,Ale,0.13,3.75,473,28.853
+Cowbell Brewing Co Sunsplash Session IPA,3.65,1,473,4.3,Can,Ale,0.179,3.65,473,20.339
+Creemore Session IPA,3.6,1,473,5.1,Can,Ale,0.149,3.6,473,24.123
+Creemore Pale Ale,3.6,1,473,5.6,Can,Ale,0.136,3.6,473,26.488
+Creemore Witbier,3.8,1,473,4.5,Can,Ale,0.179,3.8,473,21.285
+Flying Monkeys Velvet Bubble Lord Blueberry Sour,3.95,1,473,6.0,Can,Ale,0.139,3.95,473,28.38
+Cowbell Brewing Co. Bobcat,3.6,1,473,5.5,Can,Ale,0.138,3.6,473,26.015
+Flying Monkeys Juicy Ass,3.85,1,473,6.5,Can,Ale,0.125,3.85,473,30.745
+Flying Monkeys Space Age Sunshine Quadruple IPA,5.35,1,473,11.6,Can,Ale,0.098,5.35,473,54.868
+Cowbell Brewing Co. Absent Landlord,3.55,1,473,5.3,Can,Ale,0.142,3.55,473,25.069
+Chimay Premiere,10.4,1,750,7.0,Bottle,Ale,0.198,10.4,750,52.5
+Chimay Blue Cap,5.25,1,330,9.0,Bottle,Ale,0.177,5.25,330,29.7
+Double Trouble Sucker Punch Red Raspberry Sour Ale,3.55,1,473,5.7,Can,Ale,0.132,3.55,473,26.961
+Cowbell Brewing Co. Hazy Days IPA,3.85,1,473,6.0,Can,Ale,0.136,3.85,473,28.38
+Cowbell Brewing Co Mimosa Sour,3.75,1,473,4.9,Can,Ale,0.162,3.75,473,23.177
+Cameron's Brewing Good Trip IPA,3.85,1,473,6.5,Can,Ale,0.125,3.85,473,30.745
+Collective Arts Beyond Reason,3.25,1,473,2.9,Can,Ale,0.237,3.25,473,13.717
+Burdock Brewery Lime Gose,4.95,1,473,4.0,Can,Ale,0.262,4.95,473,18.92
+Blood Brothers Brewing Shumei,4.95,1,473,7.0,Can,Ale,0.15,4.95,473,33.11
+Burdock Brewery Tuesday Saison,4.5,1,473,5.2,Can,Ale,0.183,4.5,473,24.596
+Beyond The Pale Pink Fuzz,3.95,1,473,6.0,Can,Ale,0.139,3.95,473,28.38
+Beau's Lug Tread,20.25,6,473,5.2,Can,Ale,0.137,3.375,2838,147.576
+Beau's Lug Tread,3.85,1,473,5.2,Can,Ale,0.157,3.85,473,24.596
+Big Rig Madkap Raspberry Wheat,3.25,1,473,7.0,Can,Ale,0.098,3.25,473,33.11
+Bench Brewing Ball's Falls Session IPA,3.55,1,473,4.5,Can,Ale,0.167,3.55,473,21.285
+Beyond The Pale Aromatherapy IPA,4.5,1,473,6.5,Can,Ale,0.146,4.5,473,30.745
+Beyond The Pale Brewing Co. Yummy!,4.15,1,473,5.2,Can,Ale,0.169,4.15,473,24.596
+Bellwoods Jelly King Sour,6.5,1,500,5.6,Bottle,Ale,0.232,6.5,500,28.0
+Brock Street Mango Tango Hazy IPA,3.65,1,473,6.0,Can,Ale,0.129,3.65,473,28.38
+Alexander Keith's India Pale Ale,3.3,1,473,5.0,Can,Ale,0.14,3.3,473,23.65
+Bellwoods Brewery Purple Paisley IPA,5.0,1,473,7.0,Can,Ale,0.151,5.0,473,33.11
+Bobcaygeon Brewing Northern Lights,3.95,1,473,6.1,Can,Ale,0.137,3.95,473,28.853
+Bellwoods Jelly King Non-Alc Sour,5.0,1,473,0.05,Can,Ale,21.142,5.0,473,0.0
+Blanche De Chambly,3.25,1,473,5.0,Can,Ale,0.137,3.25,473,23.65
+Alexander Keith's IPA,19.5,6,473,5.0,Can,Ale,0.137,3.25,2838,141.9
+Bellwoods Brewery Jelly King Prickly Pear & Pink Guava,7.5,1,500,5.6,Bottle,Ale,0.268,7.5,500,28.0
+Blue Moon Mango Wheat,3.25,1,473,5.4,Can,Ale,0.127,3.25,473,25.542
+Bellwoods Roman Candle,4.5,1,473,6.8,Can,Ale,0.14,4.5,473,32.164
+Bellwoods Jelly King Spicy Margarita Sour,6.5,1,473,5.6,Can,Ale,0.245,6.5,473,26.488
+Blood Brothers Auto Pop Tahitian Treats,4.95,1,473,4.0,Can,Ale,0.262,4.95,473,18.92
+Bobcaygeon Brewing Dockside,3.65,1,473,5.0,Can,Ale,0.154,3.65,473,23.65
+Blue Moon,3.25,1,473,5.4,Can,Ale,0.127,3.25,473,25.542
+Beau's Lug Tread Keg,37.95,1,5000,5.2,Can,Ale,0.146,37.95,5000,260.0
+Bellwoods Jutsu Pale Ale,4.5,1,473,5.6,Can,Ale,0.17,4.5,473,26.488
+Abbot Ale,3.2,1,500,5.0,Can,Ale,0.128,3.2,500,25.0
+1664 Kronenbourg Blanc,15.95,6,330,5.0,Bottle,Ale,0.161,2.658,1980,99.0
+St-Ambroise Oatmeal Stout,3.2,1,473,5.0,Can,Ale,0.135,3.2,473,23.65
+Rainhard Brewing From Beyond IPA,3.85,1,473,6.0,Can,Ale,0.136,3.85,473,28.38
+Railway City Boxcar Juicy IPA,3.75,1,473,6.0,Can,Ale,0.132,3.75,473,28.38
+Henderson x Rush Moving Pictures 2024,13.95,1,500,11.5,Bottle,Ale,0.243,13.95,500,57.5
+Double Trouble Hops & Robbers IPA,3.45,1,473,5.7,Can,Ale,0.128,3.45,473,26.961
+Lake of the Woods Lakeside Kolsch,3.75,1,473,5.0,Can,Ale,0.159,3.75,473,23.65
+Budgie Smuggler Australian Sparkling Ale,3.4,1,473,5.5,Can,Ale,0.131,3.4,473,26.015
+Beyond The Pale Pale Ale Project,3.75,1,473,4.9,Can,Ale,0.162,3.75,473,23.177
+Deschutes Haze Tron Imperial Hazy IPA,13.7,4,355,8.0,Can,Ale,0.121,3.425,1420,113.6
+Big Rig Brewery Shakedown APA,3.85,1,473,5.6,Can,Ale,0.145,3.85,473,26.488
+Founders All Day IPA,4.6,1,568,4.7,Can,Ale,0.172,4.6,568,26.696
+Black Bellows Big Buck IPA,4.45,1,473,6.5,Can,Ale,0.145,4.45,473,30.745
+Hockley Amber,3.15,1,473,5.0,Can,Ale,0.133,3.15,473,23.65
+Bellwoods Ratclops IPA,5.0,1,473,6.0,Can,Ale,0.176,5.0,473,28.38
+Canvas Brewing Big Bend Hazelnut Stout,4.25,1,473,5.0,Can,Ale,0.18,4.25,473,23.65
+Henderson's Toronto Circus Riot Old Ale,5.95,1,473,9.0,Can,Ale,0.14,5.95,473,42.57
+Anderson Craft Ales Mexican Porter,15.45,6,355,8.2,Can,Ale,0.088,2.575,2130,174.66
+Small Pony Barrel Works SMUV Pumpkin,6.95,1,473,5.0,Can,Ale,0.294,6.95,473,23.65
+FRANK Brewing Co. Hopservation Double IPA,4.95,1,473,8.5,Can,Ale,0.123,4.95,473,40.205
+Refined Fool Two Vans Full of Weirdos Double Juicy DIPA,3.95,1,473,8.2,Can,Ale,0.102,3.95,473,38.786
+Collingwood X Kuma Lazy Bear Blonde Ale,3.5,1,473,4.8,Can,Ale,0.154,3.5,473,22.704
+Bench Brewing Hopsters Cryo IPA,3.95,1,473,6.0,Can,Ale,0.139,3.95,473,28.38
+Goose Island Juicy Haze Beer Hug,3.65,1,473,6.4,Can,Ale,0.121,3.65,473,30.272
+Daft Brewing Follow Your Nose Blackberry Sour IPA,4.75,1,473,6.5,Can,Ale,0.154,4.75,473,30.745
+Beau's Nordic Pale Ale,3.75,1,473,5.6,Can,Ale,0.142,3.75,473,26.488
+Mill Street Brewery 1 in 12 Phantasm NEIPA,4.5,1,473,7.0,Can,Ale,0.136,4.5,473,33.11
+Whiprsnapr Brewing Co Wanderer Bohemian Pilsner,3.5,1,473,5.4,Can,Ale,0.137,3.5,473,25.542
+United Craft Sucker Punch Spring Sour,3.55,1,473,5.7,Can,Ale,0.132,3.55,473,26.961
+Whitewater Brewing Co.  Farmer's Daughter,3.65,1,473,5.0,Can,Ale,0.154,3.65,473,23.65
+Sons of Kent Juice Box IPA,4.5,1,473,6.9,Can,Ale,0.138,4.5,473,32.637
+Slake Brewing Sunset Pale Ale,4.5,1,473,4.6,Can,Ale,0.207,4.5,473,21.758
+Walkerville Brewery Rob Roy Scotch Ale,3.6,1,473,7.2,Can,Ale,0.106,3.6,473,34.056
+Stonehooker Brewing Co. Broad Reach,3.8,1,473,5.4,Can,Ale,0.149,3.8,473,25.542
+Walkerville Brewery Smooth Sail Summer Ale,3.65,1,473,3.9,Can,Ale,0.198,3.65,473,18.447
+Woodhouse Raspberry Sour,3.75,1,473,4.8,Can,Ale,0.165,3.75,473,22.704
+Two Loons Brewing Two Loons IPA,3.95,1,473,6.3,Can,Ale,0.133,3.95,473,29.799
+Sandwich Brewing Co White Bronco Juicy IPA,3.95,1,473,5.7,Can,Ale,0.147,3.95,473,26.961
+Turkey Shoot Brewing Co. Lake Simcoe Lagered Ale,3.75,1,473,4.8,Can,Ale,0.165,3.75,473,22.704
+Trestle Brewing Company South Channel Ale,3.95,1,473,5.9,Can,Ale,0.142,3.95,473,27.907
+The Second Wedge Brewing Co 3 Rocks IPA,3.95,1,473,6.0,Can,Ale,0.139,3.95,473,28.38
+Willibald City Slicker IPA Ontario,5.0,1,473,6.8,Can,Ale,0.155,5.0,473,32.164
+Publican House Square Nail Pale Ale,3.6,1,473,5.5,Can,Ale,0.138,3.6,473,26.015
+The Second Wedge Brewing High Grass Lemongrass Ginger Saison,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Couchiching Craft Brewing Co. Sunshine City Blonde,3.25,1,473,4.8,Can,Ale,0.143,3.25,473,22.704
+Rouge River Brewing Fresh Nectar Double IPA,5.5,1,473,8.2,Can,Ale,0.142,5.5,473,38.786
+The Kingston Brewing Co Whitetail Cream Ale,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Something In The Water Hazy Maitland IPA,4.5,1,473,6.5,Can,Ale,0.146,4.5,473,30.745
+Slake Brewing Slow Slow IPA,4.95,1,473,6.5,Can,Ale,0.161,4.95,473,30.745
+Second Wedge Monday Night Piper Scottish Style Ale,3.6,1,473,4.8,Can,Ale,0.159,3.6,473,22.704
+Slake Brewing Hatch Pale Ale,4.5,1,473,5.2,Can,Ale,0.183,4.5,473,24.596
+Stalwart Brewing Snake Oil IPA,4.45,1,473,6.8,Can,Ale,0.138,4.45,473,32.164
+Sawdust City Juicin New England IPA,3.95,1,473,6.0,Can,Ale,0.139,3.95,473,28.38
+Sawdust City White Tulip,4.25,1,473,5.0,Can,Ale,0.18,4.25,473,23.65
+Storm Stayed Brewing Sunburst,2.95,1,355,5.4,Can,Ale,0.154,2.95,355,19.17
+Small Pony Barrel Works Half Remembered Dream,6.5,1,473,5.0,Can,Ale,0.275,6.5,473,23.65
+Radical Road Yuzu Pale Ale,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Old Dog Brewing Single Malt Scottie,3.55,1,473,4.7,Can,Ale,0.16,3.55,473,22.231
+Sawdust City Lone Pine IPA,3.95,1,473,6.2,Can,Ale,0.135,3.95,473,29.326
+Rorschach Brewing Truth Serum,3.5,1,355,6.5,Can,Ale,0.152,3.5,355,23.075
+Sawdust City Skinny Dippin' Stout,3.75,1,473,5.5,Can,Ale,0.144,3.75,473,26.015
+Rouge River Brewing Dankzilla Double IPA,5.5,1,473,8.4,Can,Ale,0.138,5.5,473,39.732
+Mill Street Spin Session IPA,3.7,1,473,4.9,Can,Ale,0.16,3.7,473,23.177
+Skeleton Park Sol Juice IPA,3.85,1,473,6.0,Can,Ale,0.136,3.85,473,28.38
+Rouge River Brewery Holy Trinity IPA,4.5,1,473,6.8,Can,Ale,0.14,4.5,473,32.164
+Sawdust City Two Pad Stack IPA,4.75,1,473,9.0,Can,Ale,0.112,4.75,473,42.57
+Matron Brewery Deece IPA,4.75,1,473,4.0,Can,Ale,0.251,4.75,473,18.92
+Quayle's Brewery Fiddle & Field Pale Ale,3.75,1,473,5.6,Can,Ale,0.142,3.75,473,26.488
+Sawdust City Twin Pines Double IPA,4.65,1,473,9.0,Can,Ale,0.109,4.65,473,42.57
+Perth Brewery Hop Side IPA,3.7,1,473,5.5,Can,Ale,0.142,3.7,473,26.015
+Mascot Brewery Watermelon Beet Sour,3.75,1,473,4.5,Can,Ale,0.176,3.75,473,21.285
+Perth Brewery Pineapple Pizazz Sour,4.1,1,473,4.5,Can,Ale,0.193,4.1,473,21.285
+Paulaner Weissbier Dunkel,3.5,1,500,5.3,Can,Ale,0.132,3.5,500,26.5
+Parsons Brewing Westy Pale Ale,3.95,1,473,5.7,Can,Ale,0.147,3.95,473,26.961
+Omnipollo Nebuchadnezzar IIPA,3.8,1,473,8.5,Can,Ale,0.095,3.8,473,40.205
+Moosehead Small Batch East Coast IPA,3.6,1,473,5.9,Can,Ale,0.129,3.6,473,27.907
+New Ontario Brewing Big & Juicy IPA,3.55,1,473,6.5,Can,Ale,0.115,3.55,473,30.745
+Nickel Brook Chilly Tins New Zealand IPA,3.75,1,473,4.5,Can,Ale,0.176,3.75,473,21.285
+Powerhouse Brewing Co. Low Voltage Cream Ale,3.65,1,473,4.7,Can,Ale,0.164,3.65,473,22.231
+Old Credit Amber Ale,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Paulaner Hefe-Weissbier,3.5,1,500,5.5,Can,Ale,0.127,3.5,500,27.5
+Mill Street Haze Phaze IPA,3.7,1,473,6.2,Can,Ale,0.126,3.7,473,29.326
+Nickel Brook Party Dad IPA,3.75,1,473,3.5,Can,Ale,0.227,3.75,473,16.555
+Parsons Brewing Noice India Pale Ale,3.95,1,473,6.1,Can,Ale,0.137,3.95,473,28.853
+Muddy York TwoCan Hazy Pale Ale,3.95,1,473,5.4,Can,Ale,0.155,3.95,473,25.542
+Lake of Bays Off the Grid Hazy Pale Ale,3.65,1,473,4.7,Can,Ale,0.164,3.65,473,22.231
+Lagunitas IPA,3.55,1,500,6.2,Can,Ale,0.115,3.55,500,31.0
+Mill Street Pineapple Lime Sour,3.8,1,473,5.2,Can,Ale,0.154,3.8,473,24.596
+Left Field Brewing Long Shot Pale Ale,3.9,1,355,4.2,Can,Ale,0.262,3.9,355,14.91
+Lake Of Bays Low Tide 90 Calorie IPA,3.45,1,473,2.5,Can,Ale,0.292,3.45,473,11.825
+Leffe Brune,19.95,6,330,6.5,Bottle,Ale,0.155,3.325,1980,128.7
+Lakefront La Gosa Rita Margarita Style Ale,13.4,4,473,4.6,Can,Ale,0.154,3.35,1892,87.032
+Kichesippi 1855 Amber Ale,3.4,1,473,5.2,Can,Ale,0.138,3.4,473,24.596
+Lake of Bays Brewing - Starboard New England IPA,3.75,1,473,5.4,Can,Ale,0.147,3.75,473,25.542
+Karbon Brewing Co. J.E.D.I Hazy IPA,3.45,1,473,6.5,Can,Ale,0.112,3.45,473,30.745
+Lake Of Bays Keep Rollin' Tropical Fruit Pale Ale,3.7,1,473,5.0,Can,Ale,0.156,3.7,473,23.65
+"Kingston Brewing Company, Double Dry Hopped IPA",4.0,1,473,6.5,Can,Ale,0.13,4.0,473,30.745
+Indie Ale House Tarana Saurus,4.5,1,473,6.7,Can,Ale,0.142,4.5,473,31.691
+KLB Raspberry Wheat Ale,3.65,1,473,4.5,Can,Ale,0.171,3.65,473,21.285
+Indie Ale House Swirl Raspberry Cherry Sour,4.95,1,473,5.0,Can,Ale,0.209,4.95,473,23.65
+KLB Lazy Waves Hazy IPA,3.9,1,473,6.0,Can,Ale,0.137,3.9,473,28.38
+Innis & Gunn Original,20.95,6,473,6.6,Can,Ale,0.112,3.492,2838,187.308
+Hometown Brew Southern Ale,3.2,1,473,4.9,Can,Ale,0.138,3.2,473,23.177
+Junction Craft Hazy IPA,3.65,1,473,6.2,Can,Ale,0.124,3.65,473,29.326
+Jackass Brewing Sunkiss NEIPA,3.45,1,473,6.5,Can,Ale,0.112,3.45,473,30.745
+Imperial City Brewhouse Wheat POG,3.65,1,473,5.3,Can,Ale,0.146,3.65,473,25.069
+Indie Ale House Rabbit of Caerbannog IPA,5.0,1,473,6.0,Can,Ale,0.176,5.0,473,28.38
+Innis & Gunn The Original,17.0,6,330,6.6,Bottle,Ale,0.13,2.833,1980,130.68
+Hoegaarden,3.65,1,500,4.9,Can,Ale,0.149,3.65,500,24.5
+Hacker Pschorr Weisse Bier,3.25,1,500,5.5,Can,Ale,0.118,3.25,500,27.5
+Ganaraska Brewing Hazy Rapids Juicy IPA,3.95,1,473,5.6,Can,Ale,0.149,3.95,473,26.488
+GRAND RIVER BREWING PALE ALE,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Gateway City Brewery 137 Rye Pale Ale,3.45,1,473,5.1,Can,Ale,0.143,3.45,473,24.123
+Frank Brewing Co. Sunshine IPA,4.05,1,473,6.1,Can,Ale,0.14,4.05,473,28.853
+Gateway City Brewery 11.17 India Session Ale,3.5,1,473,4.5,Can,Ale,0.164,3.5,473,21.285
+Fixed Gear Brewing Fixie Citra IPA,3.75,1,473,3.8,Can,Ale,0.209,3.75,473,17.974
+Frank Brewing Co. Hoperator,3.75,1,473,5.1,Can,Ale,0.155,3.75,473,24.123
+Fixed Gear Brewing Cherry Training Wheels Sour,4.25,1,473,4.0,Can,Ale,0.225,4.25,473,18.92
+Frank Brewing Co. Bombshell Blonde Ale,3.4,1,473,4.4,Can,Ale,0.163,3.4,473,20.812
+Elora Brewing Company Lady Friend IPA,3.95,1,473,6.0,Can,Ale,0.139,3.95,473,28.38
+Erdinger Weissbier,3.75,1,500,5.3,Can,Ale,0.142,3.75,500,26.5
+Great Lakes Brewery Karmadelic IPA,3.65,1,473,6.6,Can,Ale,0.117,3.65,473,31.218
+Duvel Beer,4.8,1,330,8.5,Bottle,Ale,0.171,4.8,330,28.05
+Grand River Brewing Grand Ave IPA,3.55,1,473,6.5,Can,Ale,0.115,3.55,473,30.745
+Dominion City Brewing Town & Country Blonde Ale,3.5,1,473,5.5,Can,Ale,0.135,3.5,473,26.015
+Full Beard Brewing The Bearded Prospector,3.55,1,473,4.5,Can,Ale,0.167,3.55,473,21.285
+Full Beard Brewing - The Master of Beta,3.55,1,473,4.5,Can,Ale,0.167,3.55,473,21.285
+Fixed Gear Brewing Breakaway IPA,3.65,1,473,5.5,Can,Ale,0.14,3.65,473,26.015
+Danforth Brewery Viaduct IPA,3.6,1,473,6.0,Can,Ale,0.127,3.6,473,28.38
+Cowbell Brewing Co. Blood Orange Wheat Ale,3.55,1,473,5.0,Can,Ale,0.15,3.55,473,23.65
+Covered Bridge Brewing Lumbersexual Session IPA,2.95,1,473,3.5,Can,Ale,0.178,2.95,473,16.555
+Collingwood Happy Tails Session IPA,3.45,1,473,4.5,Can,Ale,0.162,3.45,473,21.285
+Fairweather Brewing High Grade IPA,4.5,1,473,6.2,Can,Ale,0.153,4.5,473,29.326
+Eagle IPA,3.15,1,500,5.0,Can,Ale,0.126,3.15,500,25.0
+Erdinger Dunkel Weissbier,3.95,1,500,5.6,Bottle,Ale,0.141,3.95,500,28.0
+Elora Brewing Maxin Relaxin Session IPA,4.5,1,473,4.2,Can,Ale,0.227,4.5,473,19.866
+Collective Arts Peak to Peak West Coast IPA,4.75,1,473,7.0,Can,Ale,0.143,4.75,473,33.11
+Collingwood Brewery Downhill Pale Ale,3.55,1,473,5.4,Can,Ale,0.139,3.55,473,25.542
+Clifford Brewing Pinball Wizard,3.75,1,473,5.7,Can,Ale,0.139,3.75,473,26.961
+Cold Break Sublime IPA,3.75,1,473,5.5,Can,Ale,0.144,3.75,473,26.015
+C'est What Durham Al's Cask Ale,3.75,1,473,4.3,Can,Ale,0.184,3.75,473,20.339
+Dominion City Sunsplit IPA,5.1,1,473,6.5,Can,Ale,0.166,5.1,473,30.745
+Dominion City Shape of Home Pale Ale,4.25,1,473,4.5,Can,Ale,0.2,4.25,473,21.285
+Canvas Brewing Horizon Hazy IPA,3.75,1,473,6.0,Can,Ale,0.132,3.75,473,28.38
+Collective Arts Jam up the Mash,3.95,1,473,5.2,Can,Ale,0.161,3.95,473,24.596
+Calabogie Brewing Bogie,3.55,1,473,5.5,Can,Ale,0.136,3.55,473,26.015
+Burdock Brewing Ducks IPA,4.85,1,473,6.3,Can,Ale,0.163,4.85,473,29.799
+Brock Street Blonde,3.25,1,473,4.5,Can,Ale,0.153,3.25,473,21.285
+Silversmith Brewing 20 Hazy Years,3.75,1,473,6.5,Can,Ale,0.122,3.75,473,30.745
+Bicycle Craft Velocipede IPA,4.25,1,473,6.0,Can,Ale,0.15,4.25,473,28.38
+Bobcaygeon Brewing Amplitude Pink Lemonade Sour,4.5,1,473,5.6,Can,Ale,0.17,4.5,473,26.488
+Bicycle Craft Brewery On the Lam IPA,5.0,1,473,6.6,Can,Ale,0.16,5.0,473,31.218
+Blanche De Chambly Pomme,3.25,1,473,5.5,Can,Ale,0.125,3.25,473,26.015
+Boneshaker IPA,20.95,6,473,7.1,Can,Ale,0.104,3.492,2838,201.498
+Broadhead Amber Ale,3.55,1,473,5.0,Can,Ale,0.15,3.55,473,23.65
+Brimstone Brewing Sinister Minister IPA,3.6,1,473,7.0,Can,Ale,0.109,3.6,473,33.11
+Beau's Wonder Crush Hazy IPA,3.85,1,473,5.0,Can,Ale,0.163,3.85,473,23.65
+Bancroft Brewing Prospector's Ale,3.95,1,473,5.8,Can,Ale,0.144,3.95,473,27.434
+Amsterdam Fracture Hazy Imperial IPA,4.25,1,473,8.5,Can,Ale,0.106,4.25,473,40.205
+Amsterdam Boneshaker,3.75,1,473,7.1,Can,Ale,0.112,3.75,473,33.583
+Anderson Craft Ales IPA,3.65,1,473,6.5,Can,Ale,0.119,3.65,473,30.745
+Ashton Brewing Amber Ale,3.6,1,473,5.0,Can,Ale,0.152,3.6,473,23.65
+Bancroft Brewing Blueberry Wheat Ale,3.95,1,473,5.8,Can,Ale,0.144,3.95,473,27.434
+Bench Brewing Ripple Effect Pale Ale,3.6,1,473,5.0,Can,Ale,0.152,3.6,473,23.65
+Amsterdam Fracture Juicy Imperial IPA,4.25,1,473,10.5,Can,Ale,0.086,4.25,473,49.665
+Lake Of Bays Paddle On Session IPA,3.65,1,473,4.5,Can,Ale,0.171,3.65,473,21.285
+1000 Islands Brewing Lagered Ale,3.45,1,473,4.0,Can,Ale,0.182,3.45,473,18.92
+Ashton Brewing Blueberry Wheat,3.6,1,473,5.0,Can,Ale,0.152,3.6,473,23.65
+Wild Card Brewing Notoriously Juicy,4.15,1,473,6.0,Can,Ale,0.146,4.15,473,28.38
+Thornbury Craft Co. Haze for Dayz,3.45,1,473,6.0,Can,Ale,0.122,3.45,473,28.38
+Innocente Fling Golden Ale,4.0,1,473,5.0,Can,Ale,0.169,4.0,473,23.65
+Toboggan Brewing Lunatic Fridge IPA,3.45,1,473,6.2,Can,Ale,0.118,3.45,473,29.326
+Vimy Lagered Ale,3.45,1,473,5.2,Can,Ale,0.14,3.45,473,24.596
+Nickel Brook Midnight Melt Salted Caramel Stout,4.95,1,355,11.0,Can,Ale,0.127,4.95,355,39.05
+Stonepicker Brewery Hack 'N' Slash,3.6,1,473,6.4,Can,Ale,0.119,3.6,473,30.272
+Second Wedge Elgin Blonde Blonde Ale,3.25,1,473,4.3,Can,Ale,0.16,3.25,473,20.339
+Radical Road Beer,3.3,1,473,5.0,Can,Ale,0.14,3.3,473,23.65
+Purple Skull Kolsch,3.25,1,473,4.2,Can,Ale,0.164,3.25,473,19.866
+Bru Brewing Dazed in a Haze NEIPA,4.25,1,473,6.0,Can,Ale,0.15,4.25,473,28.38
+Orange Snail Iron Pig Pale Ale,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Walkerville Geronimo IPA,3.65,1,473,6.3,Can,Ale,0.122,3.65,473,29.799
+Neustadt 10W30 Brown Ale,3.5,1,473,5.2,Can,Ale,0.142,3.5,473,24.596
+Neustadt Scottish Pale Ale,3.45,1,473,4.2,Can,Ale,0.174,3.45,473,19.866
+Riverhead Brewing Company Pathfinder DIPA,4.95,1,473,8.1,Can,Ale,0.129,4.95,473,38.313
+Orleans Brewing Co. Kolsch Me Ousside,3.2,1,473,4.8,Can,Ale,0.141,3.2,473,22.704
+Rorschach Brewing Truth Serum Double Dry Hopped IPA,4.5,1,473,6.5,Can,Ale,0.146,4.5,473,30.745
+Powerhouse Brewing Homecoming Pale Ale,3.65,1,473,5.5,Can,Ale,0.14,3.65,473,26.015
+Lost Craft Coastal Wave IPA,3.5,1,473,6.0,Can,Ale,0.123,3.5,473,28.38
+Matron Brewing Janky IPA,5.15,1,473,6.0,Can,Ale,0.181,5.15,473,28.38
+Furnace Room Chicken Man Pale,3.45,1,473,5.4,Can,Ale,0.135,3.45,473,25.542
+Driftwood Brewing Fat Tug IPA,4.05,1,473,7.0,Can,Ale,0.122,4.05,473,33.11
+KICHESIPPI BEER COMPANY North Shore NEIPA,3.85,1,473,6.2,Can,Ale,0.131,3.85,473,29.326
+Bayside Brewing Co. Orchard Cherry Lager,3.75,1,473,4.1,Can,Ale,0.193,3.75,473,19.393
+Clifford Brewing Company Dark Streets of London ESB,3.65,1,473,5.2,Can,Ale,0.148,3.65,473,24.596
+Brasserie Tuque De Broue Gougounes Rousses,3.95,1,473,5.8,Can,Ale,0.144,3.95,473,27.434
+Boshkung Brewing Co 35 & 118 Cream Ale,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Broken Rail Tesla's Revenge IPA,3.75,1,473,6.4,Can,Ale,0.124,3.75,473,30.272
+Bicycle Craft Brewery Frequency APA,4.15,1,473,5.4,Can,Ale,0.162,4.15,473,25.542
+Black Rapids Brewing Lockstation Milk Stout,3.75,1,473,5.3,Can,Ale,0.15,3.75,473,25.069
+Silversmith Brewing Nut Brown Ale,3.75,1,473,5.0,Can,Ale,0.159,3.75,473,23.65
+Bud Light Lime,29.95,12,341,4.0,Bottle,Ale,0.183,2.496,4092,163.68
+Walkerville Easy Stout,3.65,1,473,5.5,Can,Ale,0.14,3.65,473,26.015
+Walsh Wiltshire Brewing Hybrid Ale,2.95,1,473,5.0,Can,Ale,0.125,2.95,473,23.65
+Sleeping Giant Brewing Quittin Time,2.85,1,355,4.5,Can,Ale,0.178,2.85,355,15.975
+Prince Eddy's Sheesh Cake Passionfruit Cheesecake Sour,4.85,1,473,5.0,Can,Ale,0.205,4.85,473,23.65
+Rorschach Brewing Absolute Truth DIPA,4.5,1,355,8.0,Can,Ale,0.158,4.5,355,28.4
+Oast House Farmer Tan IPA,4.45,1,473,6.0,Can,Ale,0.157,4.45,473,28.38
+Northern Superior Brewing 17 North Pale Ale,3.55,1,473,5.2,Can,Ale,0.144,3.55,473,24.596
+Magnotta True North Light IPA,3.5,1,473,4.0,Can,Ale,0.185,3.5,473,18.92
+Muskoka Brewery Detour,54.95,24,355,4.3,Can,Ale,0.15,2.29,8520,366.36
+Kame & Kettle Beer Works Minivan Kolsch,3.45,1,473,4.8,Can,Ale,0.152,3.45,473,22.704
+Exchange Brewery Wee Wallop,3.65,1,473,3.0,Can,Ale,0.257,3.65,473,14.19
+Chronicle Chimera New England Pale Ale,3.95,1,473,5.0,Can,Ale,0.167,3.95,473,23.65
+Brother's Brewing Lamplighter IPA,5.0,1,473,6.5,Can,Ale,0.163,5.0,473,30.745
+Brew Revolution Kashmir Norwegian Pale Ale,3.75,1,473,4.5,Can,Ale,0.176,3.75,473,21.285
+Black Bellows Crop Top,3.95,1,473,4.8,Can,Ale,0.174,3.95,473,22.704
+Church Key Brewing Holy Smoke Scotch Ale,6.45,1,650,6.2,Bottle,Ale,0.16,6.45,650,40.3
+Broadhead Brewing Underdog Pale Ale,3.55,1,473,5.2,Can,Ale,0.144,3.55,473,24.596
+Black Swan Brewing IPA,3.35,1,355,6.5,Can,Ale,0.145,3.35,355,23.075
+Alexander Keith's India Pale Ale,29.5,12,341,5.0,Bottle,Ale,0.144,2.458,4092,204.6
+5 Paddles Home Sweet Home,3.75,1,473,5.5,Can,Ale,0.144,3.75,473,26.015
+Railway City Witty Traveller,3.6,1,473,4.5,Can,Ale,0.169,3.6,473,21.285
+New Limburg Belgian Blonde,6.0,1,500,7.1,Bottle,Ale,0.169,6.0,500,35.5
+Kensington Brewing Co It's a Stout,3.45,1,473,5.8,Can,Ale,0.126,3.45,473,27.434
+Cowbell Brewing Co. Hazy Days Hazy Nights,4.25,1,473,7.0,Can,Ale,0.128,4.25,473,33.11
+Whiskeyjack Cold Front,3.55,1,473,5.0,Can,Ale,0.15,3.55,473,23.65
+The Napanee Beer Company Mayday! Belgian Wheat Beer,3.55,1,473,4.7,Can,Ale,0.16,3.55,473,22.231
+WHISKEYJACK BEER COMPANY Abitibi Amber,3.55,1,473,5.0,Can,Ale,0.15,3.55,473,23.65
+Powerhouse Brewing Co Generator India Pale Ale,3.95,1,473,6.1,Can,Ale,0.137,3.95,473,28.853
+Sons of Kent Scotch Ale,4.65,1,473,9.0,Can,Ale,0.109,4.65,473,42.57
+Three Sheets Brewing Best Coast Pale Ale,3.65,1,473,4.9,Can,Ale,0.157,3.65,473,23.177
+New Ontario Brewing Bear Runner Blonde Ale,3.45,1,473,4.5,Can,Ale,0.162,3.45,473,21.285
+"Orange Snail Brewery - Rattle ""N"" Nemo",3.6,1,473,5.0,Can,Ale,0.152,3.6,473,23.65
+Riverhead Brewing Midnight Odyssey Oatmeal Stout,4.25,1,473,5.9,Can,Ale,0.152,4.25,473,27.907
+Parsons Brewing Mousetrap Rye Pale Ale,3.95,1,473,6.6,Can,Ale,0.127,3.95,473,31.218
+Couchiching Craft Brewing Co. Meadow Haze NE IPA,3.95,1,473,4.5,Can,Ale,0.186,3.95,473,21.285
+Holman Brewing Red Dock Amber Ale,3.5,1,473,5.3,Can,Ale,0.14,3.5,473,25.069
+Kingsville Brewery Hefeweizen,3.75,1,473,5.0,Can,Ale,0.159,3.75,473,23.65
+Full Beard Brewing Lion's Mane Amber Ale,3.55,1,473,5.5,Can,Ale,0.136,3.55,473,26.015
+Innocente Inn O'Slainte Irish Red Ale,4.0,1,473,5.2,Can,Ale,0.163,4.0,473,24.596
+Haliburton Highlands Brewing Honey Brown Ale,3.45,1,473,5.0,Can,Ale,0.146,3.45,473,23.65
+Indie Alehouse English Breakfast Porter,6.75,1,500,7.2,Bottle,Ale,0.187,6.75,500,36.0
+Brimstone Hail Mary Session IPA,3.6,1,473,4.5,Can,Ale,0.169,3.6,473,21.285
+Bud Light Chelada,15.5,6,355,4.0,Can,Ale,0.182,2.583,2130,85.2
+Bellwoods Brewery Greenbelly Triple IPA,5.75,1,473,10.0,Can,Ale,0.122,5.75,473,47.3
+Beyond the Pale Cosmic Latte,4.5,1,473,6.0,Can,Ale,0.159,4.5,473,28.38
+Matron Brewing Janky IPA,3.95,1,355,6.0,Can,Ale,0.185,3.95,355,21.3
+Elora Brewing Wandering Monk Belgian IPA,5.1,1,473,8.2,Can,Ale,0.131,5.1,473,38.786
+Walkerville Brewery Imperial Stout,11.95,1,500,10.0,Bottle,Ale,0.239,11.95,500,50.0
+Mill Street Hazy Organic IPA,3.7,1,473,6.0,Can,Ale,0.13,3.7,473,28.38
+Ridge Rock Brewing Co Amber,3.75,1,473,5.0,Can,Ale,0.159,3.75,473,23.65
+Prince Eddy's Neighbourly NEIPA,5.25,1,473,6.0,Can,Ale,0.185,5.25,473,28.38
+Church Key Brewing West Coast Pale Ale,6.45,1,650,6.2,Bottle,Ale,0.16,6.45,650,40.3
+Shacklands Brewing Co Saison Davenport,3.75,1,355,6.4,Can,Ale,0.165,3.75,355,22.72
+Muskoka Cream Ale,32.95,12,355,5.0,Can,Ale,0.155,2.746,4260,213.0
+Lost Craft Chill Vibes Cold IPA,3.5,1,473,6.0,Can,Ale,0.123,3.5,473,28.38
+Longtooth Pale Ale,3.2,1,473,5.2,Can,Ale,0.13,3.2,473,24.596
+Hometown Brewing Co Hazy Susan IPA,3.35,1,473,6.0,Can,Ale,0.118,3.35,473,28.38
+4 Degrees Brewing Hill 70 Belgian Blonde Ale,3.25,1,473,7.0,Can,Ale,0.098,3.25,473,33.11
+The Exchange Brewery Hazy IPA,4.25,1,473,6.0,Can,Ale,0.15,4.25,473,28.38
+Collingwood Oak Aged Porter,4.25,1,473,6.0,Can,Ale,0.15,4.25,473,28.38
+Dog House Brewing War Dog Lagered Ale,3.65,1,473,5.0,Can,Ale,0.154,3.65,473,23.65
+Exchange Brewery Two Way West Coast IPA,4.75,1,473,6.5,Can,Ale,0.154,4.75,473,30.745
+Cameron's Brewing Co. Bad Robot New England Double IPA,4.45,1,473,8.2,Can,Ale,0.115,4.45,473,38.786
+1000 Islands Brewery APA,3.45,1,473,5.6,Can,Ale,0.13,3.45,473,26.488
+High Road Brewing Bronan IPA,4.0,1,473,7.1,Can,Ale,0.119,4.0,473,33.583
+Duvel Cherry Chouffe,4.5,1,330,8.0,Bottle,Ale,0.17,4.5,330,26.4
+Great Lakes Brewery Karmageddon DIPA,4.0,1,473,8.1,Can,Ale,0.104,4.0,473,38.313
+Collective Arts Fuzz Face Triple IPA,4.95,1,473,10.2,Can,Ale,0.103,4.95,473,48.246
+3 Fonteinen Platinum Blend Geuze,15.05,1,375,6.0,Bottle,Ale,0.669,15.05,375,22.5
+Collective Arts Blood Orange Cranberry & Vanilla Sour,4.75,1,473,5.6,Can,Ale,0.179,4.75,473,26.488
+Timmermans Lambicus Strawberry,4.7,1,330,4.0,Bottle,Ale,0.356,4.7,330,13.2
+St. Ambroise Imperial Porter Barrel Collection,8.65,1,500,10.0,Bottle,Ale,0.173,8.65,500,50.0
+Flying Monkeys Psychedelic Puzzle Factory DIPA,4.35,1,473,8.1,Can,Ale,0.114,4.35,473,38.313
+Village Brewery Binge Watch New Zealand Style Pale Ale,3.5,1,473,4.5,Can,Ale,0.164,3.5,473,21.285
+Collective Arts Galaxy 2 Ways,4.85,1,473,6.6,Can,Ale,0.155,4.85,473,31.218
+Kronenbourg 1664 Blanc Fruits Rouges,13.25,4,500,4.5,Can,Ale,0.147,3.312,2000,90.0
+Schneider Festweisse,4.15,1,500,6.2,Bottle,Ale,0.134,4.15,500,31.0
+Jart-Elle Oude Kriek,9.3,1,375,6.0,Bottle,Ale,0.413,9.3,375,22.5
+Thornbridge Brewery Jaipur IPA,3.6,1,440,5.9,Can,Ale,0.139,3.6,440,25.96
+Omnipollo Fatamorgana Folk,3.85,1,473,3.5,Can,Ale,0.233,3.85,473,16.555
+Rush X Henderson Xanabrew - Belgian Strong Pale Ale,12.95,1,500,10.5,Bottle,Ale,0.247,12.95,500,52.5
+Mill St. Cold IPA,3.75,1,473,6.8,Can,Ale,0.117,3.75,473,32.164
+Rorschach Brewing Paradigm Shift Triple Dry Hopped Double IPA,4.5,1,355,8.5,Can,Ale,0.149,4.5,355,30.175
+Siren Caribbean Chocolate Mole Cake Stout,5.55,1,330,8.8,Can,Ale,0.191,5.55,330,29.04
+Henderson Brewing Whipper English Pale Mild,3.6,1,473,4.2,Can,Ale,0.181,3.6,473,19.866
+Windswept Brewing Wolf Dark & Strong Scottish Ale,4.0,1,330,6.0,Bottle,Ale,0.202,4.0,330,19.8
+Left Field Brewery Five Tool Summer Wheat,3.35,1,355,4.2,Can,Ale,0.225,3.35,355,14.91
+Adnams Ghost Ship Pale Ale,3.35,1,440,4.5,Can,Ale,0.169,3.35,440,19.8
+Ayinger Ur-Weisse Bavarian Dunkel,4.95,1,500,5.8,Bottle,Ale,0.171,4.95,500,29.0
+Clavie Smoked Porter,4.0,1,330,5.5,Bottle,Ale,0.22,4.0,330,18.15
+Left Field Brewery Squeeze Play Strawberry Rhubarb,3.95,1,355,4.8,Can,Ale,0.232,3.95,355,17.04
+Deschutes Fresh Hazy IPA,3.9,1,473,6.5,Can,Ale,0.127,3.9,473,30.745
+Henderson Brewing Rush X Signals 40th Annivesary,13.95,1,500,11.9,Bottle,Ale,0.234,13.95,500,59.5
+Chimay 150,4.95,1,330,10.0,Bottle,Ale,0.15,4.95,330,33.0
+Bobcaygeon Sweet Tooth Pumpkin Spice Latte,4.95,1,473,8.1,Can,Ale,0.129,4.95,473,38.313
+Bobcaygeon Brewing Houseboat Hefeweizen,3.95,1,473,5.1,Can,Ale,0.164,3.95,473,24.123
+Muskoka Brewery Ebb & Flow Five Alive,3.85,1,473,5.0,Can,Ale,0.163,3.85,473,23.65
+Mill Street Session IPA,3.75,1,473,4.7,Can,Ale,0.169,3.75,473,22.231
+Collective Arts Daily Forecast,3.95,1,355,4.5,Can,Ale,0.247,3.95,355,15.975
+MacLean's Cherry Porter,3.65,1,473,5.4,Can,Ale,0.143,3.65,473,25.542
+Westmalle Tripel,5.3,1,330,9.5,Bottle,Ale,0.169,5.3,330,31.35
+Timothy Taylor Landlord,3.9,1,500,4.1,Bottle,Ale,0.19,3.9,500,20.5
+Wildbrau Grandauer Weissbier,3.75,1,500,5.1,Bottle,Ale,0.147,3.75,500,25.5
+Stray Dog California Common,3.2,1,473,5.2,Can,Ale,0.13,3.2,473,24.596
+Weihenstephaner Hefeweissbier,4.2,1,500,5.6,Bottle,Ale,0.15,4.2,500,28.0
+Spearhead Hawaiian Style Pale Ale,3.45,1,473,6.0,Can,Ale,0.122,3.45,473,28.38
+St. Bernardus Abt 12,5.35,1,330,10.0,Bottle,Ale,0.162,5.35,330,33.0
+RUSH x Henderson X-1 Belgian Black Ale with Cherry,13.95,1,500,10.0,Bottle,Ale,0.279,13.95,500,50.0
+Siren Craft Brew Pompelmocello Sour IPA,3.45,1,330,6.0,Can,Ale,0.174,3.45,330,19.8
+Trestle Brewing Company Golden Ale,3.45,1,473,5.0,Can,Ale,0.146,3.45,473,23.65
+Prince Eddy's So Many Friends IPA,3.95,1,473,4.5,Can,Ale,0.186,3.95,473,21.285
+Rally Beer Company Extra Mile Session IPA,10.95,4,355,3.5,Can,Ale,0.22,2.738,1420,49.7
+Wellington Brewery Imperial Stout,4.25,1,473,8.0,Can,Ale,0.112,4.25,473,37.84
+Prince Eddy's Blonde Ale,3.45,1,473,4.7,Can,Ale,0.155,3.45,473,22.231
+Stack Brewing Saturday Night,3.5,1,473,5.3,Can,Ale,0.14,3.5,473,25.069
+Skeleton Park Amber 6.6,3.5,1,473,6.6,Can,Ale,0.112,3.5,473,31.218
+Schneider Helle Weisse,3.9,1,500,4.9,Can,Ale,0.159,3.9,500,24.5
+Sleeping Giant Northern Logger,3.6,1,473,4.9,Can,Ale,0.155,3.6,473,23.177
+Rodenbach Vintage,14.55,1,750,7.0,Bottle,Ale,0.277,14.55,750,52.5
+Old Speckled Hen,14.75,4,500,5.0,Can,Ale,0.148,3.688,2000,100.0
+Royal City Bootleg Cream Ale,3.65,1,473,5.5,Can,Ale,0.14,3.65,473,26.015
+Old Flame Brewing Perry Loved Mary IPA,3.85,1,473,6.3,Can,Ale,0.129,3.85,473,29.799
+Orval Trappist Ale,5.3,1,330,6.9,Bottle,Ale,0.233,5.3,330,22.77
+Side Launch Hazy IPA,3.65,1,473,6.4,Can,Ale,0.121,3.65,473,30.272
+New Ontario Brewing - Tree Topper Red Ale,3.45,1,473,5.2,Can,Ale,0.14,3.45,473,24.596
+Perth Brewery Calypso IPA,3.65,1,473,4.8,Can,Ale,0.161,3.65,473,22.704
+Perth Brewery Easy Amber,3.45,1,473,5.0,Can,Ale,0.146,3.45,473,23.65
+Saison Dupont,3.2,1,330,6.5,Bottle,Ale,0.149,3.2,330,21.45
+Sleeping Giant White Out Hazy IPA,3.75,1,473,6.1,Can,Ale,0.13,3.75,473,28.853
+Rainhard Brewing Rage & Love Passionfruit & Raspberry Sour,3.95,1,355,5.0,Can,Ale,0.223,3.95,355,17.75
+Royal City Exhibition Session IPA,3.65,1,473,4.5,Can,Ale,0.171,3.65,473,21.285
+Overflow Brewing Landlocked India Pale Ale,3.95,1,473,6.5,Can,Ale,0.128,3.95,473,30.745
+PEI Brewing Gahan Blueberry Ale,3.45,1,473,4.5,Can,Ale,0.162,3.45,473,21.285
+Nita Beer Company Biju,3.5,1,473,6.1,Can,Ale,0.121,3.5,473,28.853
+Muskoka Brewery Major Tom Hazy DIPA,4.95,1,568,8.0,Can,Ale,0.109,4.95,568,45.44
+Muskoka Brewery Pineapple Ninja Wheat Ale,3.75,1,473,4.7,Can,Ale,0.169,3.75,473,22.231
+Russell Brewing A Wee Angry Scotch Ale,3.95,1,473,6.5,Can,Ale,0.128,3.95,473,30.745
+Niagara Oast House Barnraiser Country Ale,3.7,1,473,5.0,Can,Ale,0.156,3.7,473,23.65
+Muskoka Hazed & Confused,3.75,1,473,6.5,Can,Ale,0.122,3.75,473,30.745
+Lake Of The Woods Nautical Disaster Double IPA,3.95,1,473,7.0,Can,Ale,0.119,3.95,473,33.11
+Kronenbourg 1664 Rose,10.95,4,355,4.5,Can,Ale,0.171,2.738,1420,63.9
+MacLean's County Cream Ale,3.35,1,473,4.2,Can,Ale,0.169,3.35,473,19.866
+Maclean's Farmhouse Blonde,3.35,1,473,4.8,Can,Ale,0.148,3.35,473,22.704
+Maclay's Traditional Pale Ale,43.95,24,341,5.0,Bottle,Ale,0.107,1.831,8184,409.2
+Mascot Brewery Juicy J IPA,3.6,1,473,6.0,Can,Ale,0.127,3.6,473,28.38
+Meyers Creek Brewing Vanilla Porter,3.95,1,473,5.2,Can,Ale,0.161,3.95,473,24.596
+Market Brewing Bear Hug IPA,4.0,1,473,7.0,Can,Ale,0.121,4.0,473,33.11
+MacLean's Pale Ale,3.45,1,473,5.2,Can,Ale,0.14,3.45,473,24.596
+Longslice Sky Bison APA,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Market Brewing Goliath Cold Pale Ale,3.65,1,473,5.4,Can,Ale,0.143,3.65,473,25.542
+Left Field Brewery Squeeze Play Rainbow Sherbet,4.25,1,355,4.8,Can,Ale,0.249,4.25,355,17.04
+MacKinnon Brothers Harvest Ale,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+MacKinnon Brewing Red Fox Ale,3.5,1,473,4.2,Can,Ale,0.176,3.5,473,19.866
+Jolly Pumpkin Artisan Ales Oro,4.9,1,473,8.0,Can,Ale,0.129,4.9,473,37.84
+Lake of the Woods Forgotten Lake Blueberry Ale,3.95,1,473,7.1,Can,Ale,0.118,3.95,473,33.583
+Innis & Gunn Original,3.75,1,473,6.6,Can,Ale,0.12,3.75,473,31.218
+Kensington Supermarket Haze,3.75,1,473,5.8,Can,Ale,0.137,3.75,473,27.434
+Mackinnon Brewing Crosscut Canadian Ale,3.5,1,473,5.2,Can,Ale,0.142,3.5,473,24.596
+Kronenbourg 1664 Blanc,2.95,1,473,5.0,Can,Ale,0.125,2.95,473,23.65
+Kronenbourg 1664 Blanc,14.45,6,330,5.0,Bottle,Ale,0.146,2.408,1980,99.0
+Highlander Blacksmith Smoked Porter,3.4,1,473,6.5,Can,Ale,0.111,3.4,473,30.745
+Mackinnon Brewing 8 Man English Pale Ale,3.5,1,473,5.5,Can,Ale,0.135,3.5,473,26.015
+Hobgoblin Ipa,3.35,1,500,5.0,Can,Ale,0.134,3.35,500,25.0
+Kona Hanalei IPA,19.95,6,355,4.5,Bottle,Ale,0.208,3.325,2130,95.85
+Innis & Gunn Islay Whisky Cask Laphroaig,12.7,2,330,7.4,Bottle,Ale,0.26,6.35,660,48.84
+Guinness Nitro Cold Brew Coffee Beer,15.55,4,440,4.0,Can,Ale,0.221,3.888,1760,70.4
+Innis & Gunn Tequila Cask Blonde Beer,3.5,1,473,5.1,Can,Ale,0.145,3.5,473,24.123
+Imperial City Brew House Goodbye Gravity Cream Ale,3.6,1,473,5.0,Can,Ale,0.152,3.6,473,23.65
+Innis & Gunn Caribbean Rum Cask,3.75,1,473,6.8,Can,Ale,0.117,3.75,473,32.164
+High Park Eat The Worm Margarita Sour,3.95,1,473,5.0,Can,Ale,0.167,3.95,473,23.65
+Hoegaarden,17.95,6,330,5.0,Bottle,Ale,0.181,2.992,1980,99.0
+Great Lakes Brewery Miami Weiss,3.25,1,473,4.5,Can,Ale,0.153,3.25,473,21.285
+High Park Brewery Off the Leash IPA,3.05,1,473,6.5,Can,Ale,0.099,3.05,473,30.745
+Indie Ale House Instigator IPA,4.25,1,473,6.5,Can,Ale,0.138,4.25,473,30.745
+Kronenbourg 1664 Blanc,30.25,12,330,5.0,Can,Ale,0.153,2.521,3960,198.0
+Furnace Room Beardmore Kolsch,3.4,1,473,4.5,Can,Ale,0.16,3.4,473,21.285
+Godspeed Brewery Yuzu Saison with Japanese Citrus,3.95,1,355,4.1,Can,Ale,0.271,3.95,355,14.555
+High Park Rings of Saturn Hazy IPA,3.5,1,473,6.5,Can,Ale,0.114,3.5,473,30.745
+Fruli,20.0,4,330,4.1,Bottle,Ale,0.37,5.0,1320,54.12
+GoodLot Farmstead Ale,3.5,1,473,6.2,Can,Ale,0.119,3.5,473,29.326
+Gouden Carolus Christmas,3.25,1,330,10.5,Bottle,Ale,0.094,3.25,330,34.65
+Forked River Capital Blonde Ale,3.25,1,473,4.7,Can,Ale,0.146,3.25,473,22.231
+Elora Brewing Borealis Pale Ale,3.95,1,473,5.1,Can,Ale,0.164,3.95,473,24.123
+Gregorius Trappist Beer,5.55,1,330,9.7,Bottle,Ale,0.173,5.55,330,32.01
+Duchesse De Bourgogne,4.25,1,330,6.2,Bottle,Ale,0.208,4.25,330,20.46
+Destihl Haze Of The Dead Hazy Double IPA,4.15,1,473,8.5,Can,Ale,0.103,4.15,473,40.205
+Destihl Brewery Wild Sour Dragonfruit Mango,11.5,4,355,5.5,Can,Ale,0.147,2.875,1420,78.1
+Collective Arts Guava Gose,2.95,1,355,4.9,Can,Ale,0.17,2.95,355,17.395
+Collective Arts Grapefruit & Lime Gose,4.75,1,473,5.2,Can,Ale,0.193,4.75,473,24.596
+Collective Arts Good Monster,4.45,1,473,8.0,Can,Ale,0.118,4.45,473,37.84
+Collective Arts Daily Forecast,2.95,1,355,4.5,Can,Ale,0.185,2.95,355,15.975
+Collective Arts Guava Gose,3.95,1,473,4.9,Can,Ale,0.17,3.95,473,23.177
+"Collective Arts Stranger Than Fiction, Porter",3.45,1,473,5.5,Can,Ale,0.133,3.45,473,26.015
+Collective Arts Hazy State,3.55,1,473,4.1,Can,Ale,0.183,3.55,473,19.393
+Eastbound Brewing Let's Go Exploring,4.25,1,473,6.0,Can,Ale,0.15,4.25,473,28.38
+Chimay White Cap,4.95,1,330,8.0,Bottle,Ale,0.188,4.95,330,26.4
+Emmanuel De Landtsheer Malheur 12 Belgian Dark Ale,5.2,1,330,11.5,Bottle,Ale,0.137,5.2,330,37.95
+Dieu Du Ciel - Peche Mortel,3.9,1,473,9.5,Can,Ale,0.087,3.9,473,44.935
+Common Good Beer Company Solace East Coast IPA,3.95,1,473,6.7,Can,Ale,0.125,3.95,473,31.691
+Cameron's Ambear Red Ale,3.65,1,473,5.0,Can,Ale,0.154,3.65,473,23.65
+Bud Light Lime,3.2,1,473,4.0,Can,Ale,0.169,3.2,473,18.92
+Bench Brewing Short Hills Hazy IPA,3.75,1,473,6.5,Can,Ale,0.122,3.75,473,30.745
+Cameron's Jungle of Love Volume II,4.45,1,473,4.8,Can,Ale,0.196,4.45,473,22.704
+Silversmith Brewing Tropical Situation,3.75,1,473,5.0,Can,Ale,0.159,3.75,473,23.65
+Big Rig Gold,3.25,1,473,5.0,Can,Ale,0.137,3.25,473,23.65
+Big Rig Alpha Bomb IPA,3.85,1,473,6.6,Can,Ale,0.123,3.85,473,31.218
+Beau's Lug Lite,3.25,1,473,4.0,Can,Ale,0.172,3.25,473,18.92
+Brew Microbrewery Maple Beer,3.95,1,473,5.0,Can,Ale,0.167,3.95,473,23.65
+Calabogie Front Porch Kolsch,3.45,1,473,4.7,Can,Ale,0.155,3.45,473,22.231
+CALABOGIE BREWING Brown Cow Milk Stout,3.6,1,473,5.5,Can,Ale,0.138,3.6,473,26.015
+Beyond The Pale Saison Tropicale,5.1,1,473,7.9,Can,Ale,0.136,5.1,473,37.367
+Broadhead Blueberry Blonde,3.65,1,473,5.0,Can,Ale,0.154,3.65,473,23.65
+Anderson Cream Ale,15.45,6,355,4.8,Can,Ale,0.151,2.575,2130,102.24
+Beau's Juiced AF Hazy IPA,3.85,1,473,6.5,Can,Ale,0.125,3.85,473,30.745
+Anderson IPA,15.45,6,355,6.5,Can,Ale,0.112,2.575,2130,138.45
+Dandy Brewing Julia Peach Sour,4.5,1,473,6.5,Can,Ale,0.146,4.5,473,30.745
+Underground Brewing High Grade Blonde Ale,3.5,1,473,5.7,Can,Ale,0.13,3.5,473,26.961
+Nickel Brook Kentucky Imperial Stout,11.95,1,500,12.0,Bottle,Ale,0.199,11.95,500,60.0
+Double Trouble Pecan Porter,3.25,1,473,5.6,Can,Ale,0.123,3.25,473,26.488
+Nickel Brook Cafe Del Bastardo,13.95,1,500,12.0,Bottle,Ale,0.232,13.95,500,60.0
+Westmalle Dubbel,4.55,1,330,7.0,Bottle,Ale,0.197,4.55,330,23.1
+Stack Brewing Panache Session IPA,3.5,1,473,4.5,Can,Ale,0.164,3.5,473,21.285
+RAINHARD BREWING Kapow! West Coast IPA,3.95,1,473,6.5,Can,Ale,0.128,3.95,473,30.745
+Rodenbach Classic,3.55,1,500,5.2,Can,Ale,0.137,3.55,500,26.0
+Upper Thames Brewing Co Portage IPA,3.55,1,473,5.6,Can,Ale,0.134,3.55,473,26.488
+London Brewing Hibiscus & Haskap Kettle Sour,3.95,1,473,4.2,Can,Ale,0.199,3.95,473,19.866
+Longslice Brewery Princess Clementine Sour,3.95,1,473,5.0,Can,Ale,0.167,3.95,473,23.65
+Left Field Flutterball Pale Ale,3.9,1,355,5.0,Can,Ale,0.22,3.9,355,17.75
+London Brewing Front Porch Session IPA,3.35,1,473,4.0,Can,Ale,0.177,3.35,473,18.92
+Rorschach Brewing Hedonism Passionfruit Blood Orange Guava Sour IPA,3.85,1,355,6.9,Can,Ale,0.157,3.85,355,24.495
+Riverhead Brewing Tropical IPA,3.95,1,473,6.1,Can,Ale,0.137,3.95,473,28.853
+Lake of the Woods Sultana Gold Ale,3.75,1,473,5.0,Can,Ale,0.159,3.75,473,23.65
+Prince Eddy's Haze Brigade NEIPA,4.65,1,473,6.5,Can,Ale,0.151,4.65,473,30.745
+Left Field Brewery Sweet Spot Marshmallow Stout,3.95,1,355,6.2,Can,Ale,0.179,3.95,355,22.01
+Hofbrau Hefe Weizen,3.95,1,500,5.1,Bottle,Ale,0.155,3.95,500,25.5
+Left Field Brewing Squeeze Play Pink Lemonade Sour,3.95,1,355,4.8,Can,Ale,0.232,3.95,355,17.04
+Market Brewing Co. Roam Hazy IPA,3.95,1,473,6.5,Can,Ale,0.128,3.95,473,30.745
+London Brewing Organic Hazy IPA,3.95,1,473,6.5,Can,Ale,0.128,3.95,473,30.745
+Amsterdam Fracture Imperial IPA,4.25,1,473,9.1,Can,Ale,0.099,4.25,473,43.043
+Clifford Brewing Porter,3.65,1,473,5.9,Can,Ale,0.131,3.65,473,27.907
+Ganaraska Pretty Bad Sunburn Mango Guava Sour,4.25,1,473,4.7,Can,Ale,0.191,4.25,473,22.231
+Gaffel Kolsch,3.65,1,500,4.8,Can,Ale,0.152,3.65,500,24.0
+Cameron's Jurassic IPA,3.85,1,473,6.8,Can,Ale,0.12,3.85,473,32.164
+Brock Street Tropical Thunder NEIPA,3.65,1,473,6.4,Can,Ale,0.121,3.65,473,30.272
+Brasserie Tuque De Broue Tuque Doree,3.95,1,473,4.5,Can,Ale,0.186,3.95,473,21.285
+Avling Brewing Tributary Hefeweizen,3.95,1,355,5.3,Can,Ale,0.21,3.95,355,18.815
+Brasserie De Blaugies La Moneuse Saison,8.05,1,375,8.0,Bottle,Ale,0.268,8.05,375,30.0
+Amsterdam Neon Haze Hazy IPA,3.35,1,473,5.7,Can,Ale,0.124,3.35,473,26.961
+Beyond the Pale Tropicale Breeze,4.25,1,473,4.5,Can,Ale,0.2,4.25,473,21.285
+Granite Brewery Ringwood Blonde Ale,3.5,1,473,5.2,Can,Ale,0.142,3.5,473,24.596
+JuiceBox Raspberry Lemonade,2.35,1,473,5.0,Can,Ale,0.099,2.35,473,23.65
+Perth Brewery Mocha Stout,3.5,1,473,5.5,Can,Ale,0.135,3.5,473,26.015
+Bad Shepherd Double Choc Hazelnut Brown,3.95,1,440,7.2,Can,Ale,0.125,3.95,440,31.68
+Upper Thames Brewing Take a Hike,3.65,1,473,6.0,Can,Ale,0.129,3.65,473,28.38
+Sinha Stout,3.75,1,330,8.8,Bottle,Ale,0.129,3.75,330,29.04
+Sleeping Giant Mr. Canoehead,3.65,1,473,5.1,Can,Ale,0.151,3.65,473,24.123
+Meuse Brewing Company Saison De La Meuse,3.1,1,330,5.0,Bottle,Ale,0.188,3.1,330,16.5
+Nickel Brook Black Light All Night Stout,3.4,1,473,4.5,Can,Ale,0.16,3.4,473,21.285
+Tomorrow Brew Co. Monty's Aged Ryed Ale,3.45,1,473,6.2,Can,Ale,0.118,3.45,473,29.326
+Highlander Brew Co Scottish Ale,3.5,1,473,5.4,Can,Ale,0.137,3.5,473,25.542
+Kronenbourg 1664,3.3,1,500,5.0,Can,Ale,0.132,3.3,500,25.0
+IX Poets Brewing Hazy Mariner Cloudy IPA,3.5,1,473,5.3,Can,Ale,0.14,3.5,473,25.069
+Forked River Interstellar IPA,3.6,1,473,6.5,Can,Ale,0.117,3.6,473,30.745
+High Park Pumpkin Spice Latte,3.5,1,473,6.0,Can,Ale,0.123,3.5,473,28.38
+Capt25 Incipient IPA,3.55,1,473,3.9,Can,Ale,0.192,3.55,473,18.447
+Erdinger Oktoberfest,4.0,1,500,5.7,Bottle,Ale,0.14,4.0,500,28.5
+Flying Monkeys Chocolate Manifesto,5.5,1,473,10.0,Can,Ale,0.116,5.5,473,47.3
+Bud Light Lime,29.95,12,355,4.0,Can,Ale,0.176,2.496,4260,170.4
+CATAPULT BREWING Kolsch Style Lagered Ale,3.5,1,473,4.7,Can,Ale,0.157,3.5,473,22.231
+Bench Brewing Hopster DIPA,3.65,1,473,8.0,Can,Ale,0.096,3.65,473,37.84
+Ashton Brewing Blackstone Ale,3.6,1,473,5.0,Can,Ale,0.152,3.6,473,23.65
+Lambiek Fabriek - Brett-Elle,11.75,1,375,6.3,Bottle,Ale,0.497,11.75,375,23.625
+Alexander Keith's India Pale Ale,52.5,24,355,5.0,Can,Ale,0.123,2.188,8520,426.0
+Big Rig Pumpkin Porter,3.4,1,473,5.8,Can,Ale,0.124,3.4,473,27.434
+The Napanee Beer Company EXTREMIST Belgian Style IPA,3.9,1,473,7.2,Can,Ale,0.115,3.9,473,34.056
+The Grove Brewery Lupulin Express APA,3.55,1,473,5.0,Can,Ale,0.15,3.55,473,23.65
+Burdock Brewery Lime Gose,4.35,1,355,4.0,Can,Ale,0.306,4.35,355,14.2
+Kronenbourg 1664 Blanc,3.3,1,500,5.0,Can,Ale,0.132,3.3,500,25.0
+Mill Street Tea Time Lemon Wheat,3.75,1,473,5.0,Can,Ale,0.159,3.75,473,23.65
+Innis & Gunn Original XX,13.0,2,330,6.6,Bottle,Ale,0.298,6.5,660,43.56
+Whitewater Brewing Co Dark Roast Pumpkin Spice Espresso Porter,3.65,1,473,4.4,Can,Ale,0.175,3.65,473,20.812
+Sweetgrass Golden Ale,3.3,1,473,4.9,Can,Ale,0.142,3.3,473,23.177
+Lake of the Woods Dead Mans Switch NEIPA,3.45,1,473,6.8,Can,Ale,0.107,3.45,473,32.164
+Orillia Brewing Summer Frost Cryo IPA,4.95,1,473,7.0,Can,Ale,0.15,4.95,473,33.11
+Paniza Brewing Co Inc Helix Nebula,3.5,1,473,7.0,Can,Ale,0.106,3.5,473,33.11
+Molson Export,45.95,24,341,5.0,Bottle,Ale,0.112,1.915,8184,409.2
+Granville Island Lions Winter Ale,3.65,1,473,5.5,Can,Ale,0.14,3.65,473,26.015
+Muskoka Detour,32.95,12,355,4.3,Can,Ale,0.18,2.746,4260,183.18
+Bombardier Ale,3.25,1,500,5.2,Can,Ale,0.125,3.25,500,26.0
+Avling Brewing Spinning Yarn Barrel Aged,7.5,1,375,5.0,Bottle,Ale,0.4,7.5,375,18.75
+All or Nothing Brewhouse Take a Break Tropical Double IIPA,3.95,1,473,6.8,Can,Ale,0.123,3.95,473,32.164
+Dawson Trail Craft Brewery Border Run,3.5,1,473,5.0,Can,Ale,0.148,3.5,473,23.65
+Brouwerij The Musketeers Troubadour - Obscura,4.6,1,330,8.2,Bottle,Ale,0.17,4.6,330,27.06
+Andechser Dopplebock Dunkel,4.2,1,500,7.1,Bottle,Ale,0.118,4.2,500,35.5
+Amsterdam Space Invader IPA,3.45,1,473,6.0,Can,Ale,0.122,3.45,473,28.38
+Duvel 666,4.2,1,330,6.6,Bottle,Ale,0.193,4.2,330,21.78
+3 Fonteinen Intens Rood,20.0,1,375,6.0,Bottle,Ale,0.889,20.0,375,22.5
+Church Key Brewing Northumberland Ale,14.5,6,341,5.0,Bottle,Ale,0.142,2.417,2046,102.3
+Muskoka Brewery Winter Beard Stout,3.65,1,473,8.0,Can,Ale,0.096,3.65,473,37.84
+Rally Beer Company Extra Mile Session IPA,3.15,1,355,3.5,Can,Ale,0.254,3.15,355,12.425
+Gahan Pumpkin Ale,3.5,1,473,5.8,Can,Ale,0.128,3.5,473,27.434
+Caledon Hills Summer Solstice,3.15,1,473,4.8,Can,Ale,0.139,3.15,473,22.704
+Black Bellows Beach Freak,4.45,1,473,5.1,Can,Ale,0.184,4.45,473,24.123
+Beau's Full Time IPA,3.65,1,473,6.0,Can,Ale,0.129,3.65,473,28.38
+Founders Porter,3.5,1,355,6.5,Bottle,Ale,0.152,3.5,355,23.075
+Three Sheets Brewing Slight Delay DIPA,4.75,1,473,8.0,Can,Ale,0.126,4.75,473,37.84
+Nickel Brook Tongue Tied DDH IPA,3.75,1,473,5.6,Can,Ale,0.142,3.75,473,26.488
+Cascade Brewing Brunch Line 2017,9.55,1,500,9.5,Bottle,Ale,0.201,9.55,500,47.5
+Stack Brewing Sour IPA,3.75,1,473,6.5,Can,Ale,0.122,3.75,473,30.745
+Henderson x Society of Beer Drinking Ladies Hibiscus Pale Ale,3.5,1,473,5.5,Can,Ale,0.135,3.5,473,26.015
+Collingwood Brewery Freestyle Tropiskull Thunder IPA,3.55,1,473,6.8,Can,Ale,0.11,3.55,473,32.164
+Rickard's Red,30.95,12,341,5.2,Bottle,Ale,0.145,2.579,4092,212.784
+Hendersons Radicle Salted Lime Gose,3.3,1,473,4.4,Can,Ale,0.159,3.3,473,20.812
+Nickel Brook Jam Stand Raspberry,3.85,1,473,4.0,Can,Ale,0.203,3.85,473,18.92
+Muskoka Mad Tom IPA,33.95,12,355,6.4,Can,Ale,0.125,2.829,4260,272.64
+Flying Dog Gonzo Imperial Porter,5.0,1,355,10.0,Bottle,Ale,0.141,5.0,355,35.5
+Bear Russian Imperial Stout,3.4,1,330,10.5,Bottle,Ale,0.098,3.4,330,34.65
+Innis & Gunn Vanishing Point 07,17.8,1,500,11.0,Bottle,Ale,0.324,17.8,500,55.0
+Voodoo Ranger IPA,4.05,1,473,7.0,Can,Ale,0.122,4.05,473,33.11
+Zundert 10,4.95,1,330,10.0,Bottle,Ale,0.15,4.95,330,33.0
+Maclay's Traditional Pale Ale,45.5,24,355,4.9,Can,Ale,0.109,1.896,8520,417.48
+Innis & Gunn Original,20.95,6,500,6.6,Can,Ale,0.106,3.492,3000,198.0
+Bobcaygeon Brewing Starry Night Chocolate Stout,3.95,1,473,6.3,Can,Ale,0.133,3.95,473,29.799
+Harviestoun Brewery Bitter & Twisted,3.2,1,330,4.2,Bottle,Ale,0.231,3.2,330,13.86
+Fat Tire Classic Ale,3.85,1,473,5.2,Can,Ale,0.157,3.85,473,24.596
+Equilibrium Brewery Astrophysics IPA,4.95,1,473,6.5,Can,Ale,0.161,4.95,473,30.745
+Brasserie Dupont Moinette Brune,3.45,1,330,8.5,Bottle,Ale,0.123,3.45,330,28.05
+Bobcaygeon Brewing Bobber 100 Calorie Hazy IPA,3.5,1,473,2.5,Can,Ale,0.296,3.5,473,11.825
+Alexander Keith's India Pale Ale,49.5,24,341,5.0,Bottle,Ale,0.121,2.062,8184,409.2
+Phillips Electric Unicorn White Ipa,3.55,1,473,6.5,Can,Ale,0.115,3.55,473,30.745
+Nickel Brook Uncle Goose IPA,3.75,1,473,6.3,Can,Ale,0.126,3.75,473,29.799
+Anderson Craft Ales Giving IPA,15.45,6,355,6.2,Can,Ale,0.117,2.575,2130,132.06
+Brimstone Brewing Sinister Minister IPA,4.5,1,500,7.0,Bottle,Ale,0.129,4.5,500,35.0
+South River Brewing Co. Rowdy Piper IPA,3.25,1,473,4.2,Can,Ale,0.164,3.25,473,19.866
+Signal Brewing Wave Pale Ale,4.25,1,473,6.1,Can,Ale,0.147,4.25,473,28.853
+Signal Brewing Firewire,4.85,1,473,6.8,Can,Ale,0.151,4.85,473,32.164
+Evergreen Craft Ales Smug NEIPA,3.75,1,473,6.0,Can,Ale,0.132,3.75,473,28.38
+Salonikia Pale Ale Beer,3.95,1,330,5.5,Bottle,Ale,0.218,3.95,330,18.15
+Wellington Brewery Good Odds Cranberry & Orange Sour,3.95,1,473,5.2,Can,Ale,0.161,3.95,473,24.596
+Trou Du Diable Les Quatre Surfeurs De L'Apocalypso,3.85,1,473,6.5,Can,Ale,0.125,3.85,473,30.745
+Redline Brewhouse Leather Interior Brown Ale with Vanilla & Almond,3.55,1,473,5.6,Can,Ale,0.134,3.55,473,26.488
+Bunkie Brewing Blonde Ale,3.35,1,473,4.0,Can,Ale,0.177,3.35,473,18.92
+MacLean's Farmhouse Blonde,77.25,24,473,4.8,Can,Ale,0.142,3.219,11352,544.896
+Badger Fursty Ferret,3.0,1,440,4.4,Can,Ale,0.155,3.0,440,19.36
+Sons of Kent Zephyr Dry Hopped Sour,3.5,1,473,5.3,Can,Ale,0.14,3.5,473,25.069
+Brassroots Brewing - Darkwood Blackberry Saison,3.5,1,473,4.7,Can,Ale,0.157,3.5,473,22.231
+Norse Golden Ale,3.15,1,473,5.0,Can,Ale,0.133,3.15,473,23.65
+Barley Days Harvest Gold,2.95,1,473,4.8,Can,Ale,0.13,2.95,473,22.704
+Barley Days Wind & Sail,2.95,1,473,5.0,Can,Ale,0.125,2.95,473,23.65
+Devil's Pale Ale,3.35,1,473,6.0,Can,Ale,0.118,3.35,473,28.38
+Encompass Blonde Beer,2.55,1,473,4.9,Can,Ale,0.11,2.55,473,23.177
+The Hamilton Brewery Riley Red,2.75,1,473,4.5,Can,Ale,0.129,2.75,473,21.285
+Abe Erb Brewing Das Spritzhaus Hefeweizen,3.25,1,473,4.7,Can,Ale,0.146,3.25,473,22.231
+Shillow Beer Company Beer Snob,3.8,1,473,6.0,Can,Ale,0.134,3.8,473,28.38
+St-Ambroise Pumpkin Ale,2.45,1,473,5.0,Can,Ale,0.104,2.45,473,23.65
+Great Lakes Brewery Karma Citra IPA,3.55,1,473,6.6,Can,Ale,0.114,3.55,473,31.218
+Abe Erb Brewing Kolsch Style Lagered Ale,3.25,1,473,4.8,Can,Ale,0.143,3.25,473,22.704
+Innis & Gunn The Original,3.75,1,500,6.6,Can,Ale,0.114,3.75,500,33.0
+Brasserie Etienne Brule Citrale,4.15,1,473,6.8,Can,Ale,0.129,4.15,473,32.164
+All Or Nothing All-Out Effort American Amber,3.4,1,473,5.2,Can,Ale,0.138,3.4,473,24.596
+Chimay Grande Reserve Barrel Aged,25.0,1,750,10.5,Bottle,Ale,0.317,25.0,750,78.75
+Cameron's Brewing Crooked Nose Stout,3.5,1,473,5.1,Can,Ale,0.145,3.5,473,24.123
+Radical Road Brewing Straight Up Sour Mango Pineapple,2.95,1,355,4.5,Can,Ale,0.185,2.95,355,15.975
+Anderson Juicy IPA,15.45,6,355,6.2,Can,Ale,0.117,2.575,2130,132.06
+Small Pony Barrel Works Mares in a Jam,7.95,1,375,7.1,Bottle,Ale,0.299,7.95,375,26.625
+Innis & Gunn Irish Whiskey Cask,3.4,1,500,6.1,Can,Ale,0.111,3.4,500,30.5
+Moinette Blonde,3.15,1,330,8.5,Bottle,Ale,0.112,3.15,330,28.05
+Dragan Brewing Garnet Azacca Citra Pale Ale,3.95,1,473,5.0,Can,Ale,0.167,3.95,473,23.65
+Anderson Craft Ale Spring,14.5,6,355,4.8,Can,Ale,0.142,2.417,2130,102.24
+Ola Dubh Special Reserve 12 Years Old,6.45,1,330,8.0,Bottle,Ale,0.244,6.45,330,26.4
+Lost Craft Eclipze IPA,3.25,1,473,6.0,Can,Ale,0.115,3.25,473,28.38
+Somersby Apple Cider,3.85,1,473,4.5,Can,Cider,0.181,3.85,473,21.285
+Somersby Blackberry Cider,3.9,1,473,4.5,Can,Cider,0.183,3.9,473,21.285
+Somersby Mango & Lime Cider,3.8,1,473,4.5,Can,Cider,0.179,3.8,473,21.285
+Somersby Pear Cider,3.9,1,473,4.5,Can,Cider,0.183,3.9,473,21.285
+Rudesheimer Apfelschaumwein Extra Trocken 2019,18.95,1,750,8.5,Bottle,Cider,0.297,18.95,750,63.75
+Thornbury Village Craft Apple Cider,3.65,1,473,5.3,Can,Cider,0.146,3.65,473,25.069
+Waupoos Premium Cider,12.95,4,341,6.5,Bottle,Cider,0.146,3.238,1364,88.66
+Somersby Red Rhubarb Cider,3.9,1,473,4.5,Can,Cider,0.183,3.9,473,21.285
+Strongbow Ultra Cider Apple,15.0,6,330,4.5,Can,Cider,0.168,2.5,1980,89.1
+Shiny Apple Ginger Lime Cider,3.65,1,473,7.0,Can,Cider,0.11,3.65,473,33.11
+No Boats on Sunday Cider,4.95,1,500,5.0,Bottle,Cider,0.198,4.95,500,25.0
+No Boats On Sunday Cider Box,22.95,1,3000,5.0,Can,Cider,0.153,22.95,3000,150.0
+Okanagan Apple Cider,3.65,1,473,5.0,Can,Cider,0.154,3.65,473,23.65
+Niagara Cider Company No.1 Dry Apple Cider,3.85,1,473,6.0,Can,Cider,0.136,3.85,473,28.38
+Okanagan Harvest Pear,3.65,1,473,5.0,Can,Cider,0.154,3.65,473,23.65
+Niagara Cider Company Blackberry Honey,4.25,1,473,6.0,Can,Cider,0.15,4.25,473,28.38
+No Boats On Sunday Cider,21.95,6,473,5.0,Can,Cider,0.155,3.658,2838,141.9
+Niagara Cider Peach Chardonnay,3.95,1,473,6.0,Can,Cider,0.139,3.95,473,28.38
+Magnotta Small Batch Raspberry Cider,3.6,1,473,5.6,Can,Cider,0.136,3.6,473,26.488
+Lost Craft Dry Rose,3.5,1,473,6.0,Can,Cider,0.123,3.5,473,28.38
+Magners Original Irish Cider,4.0,1,500,4.5,Can,Cider,0.178,4.0,500,22.5
+Liberty Village Dry Cider,3.6,1,473,4.5,Can,Cider,0.169,3.6,473,21.285
+Growers Honeycrisp Apple,3.5,1,473,5.0,Can,Cider,0.148,3.5,473,23.65
+Growers Granny Smith Apple Cider,15.95,6,330,7.0,Bottle,Cider,0.115,2.658,1980,138.6
+Cowbell Rose Cider,3.65,1,473,5.0,Can,Cider,0.154,3.65,473,23.65
+Cowbell Brewing Co. Peach Cider,3.65,1,473,5.0,Can,Cider,0.154,3.65,473,23.65
+Cowbell Brewing Co. Original Cider,3.65,1,473,5.0,Can,Cider,0.154,3.65,473,23.65
+Angry Orchard Hard Cider Crisp Apple,16.55,6,355,5.0,Bottle,Cider,0.155,2.758,2130,106.5
+Lost Craft Apple Cider,3.4,1,473,5.0,Can,Cider,0.144,3.4,473,23.65
+Ernest Dry Cider,3.65,1,473,6.3,Can,Cider,0.122,3.65,473,29.799
+Strongbow Cider,4.2,1,500,5.3,Can,Cider,0.158,4.2,500,26.5
+Rice Lake Original Dry Cider,13.95,4,355,6.2,Can,Cider,0.158,3.488,1420,88.04
+Thornbury Craft Wild Blueberry Elderflower Cider,3.75,1,473,5.0,Can,Cider,0.159,3.75,473,23.65
+Shiny Apple Peach Light Cider,3.65,1,473,4.0,Can,Cider,0.193,3.65,473,18.92
+Shiny Apple Pineapple Mango Cider,3.65,1,473,7.0,Can,Cider,0.11,3.65,473,33.11
+Tempt No. 9 Strawberry & Lime Cider,3.25,1,500,4.5,Can,Cider,0.144,3.25,500,22.5
+Strongbow Cider,30.0,8,440,5.3,Can,Cider,0.161,3.75,3520,186.56
+Shiny Apple Cider Bramble Berry Light,3.65,1,473,4.0,Can,Cider,0.193,3.65,473,18.92
+Somersby Apple Cider 4x473ml Cans,14.0,4,473,4.5,Can,Cider,0.164,3.5,1892,85.14
+Pommies Mimosa Cider,3.8,1,473,5.5,Can,Cider,0.146,3.8,473,26.015
+Shiny Apple Cider,3.65,1,473,7.0,Can,Cider,0.11,3.65,473,33.11
+Growers Light Extra Dry Cider,3.3,1,355,4.0,Can,Cider,0.232,3.3,355,14.2
+Ironwood Ciderita Caribbean Lime Cider,3.95,1,473,4.2,Can,Cider,0.199,3.95,473,19.866
+Saunders Flying Canoe Hard Cider,4.05,1,473,5.0,Can,Cider,0.171,4.05,473,23.65
+Dragon's Gold Cider,3.6,1,473,5.5,Can,Cider,0.138,3.6,473,26.015
+County Cider Blackberry Peach,3.95,1,473,6.5,Can,Cider,0.128,3.95,473,30.745
+County Apple Cider,3.95,1,473,6.5,Can,Cider,0.128,3.95,473,30.745
+Collective Arts Circling The Sun Applecherry Cider,3.8,1,473,5.5,Can,Cider,0.146,3.8,473,26.015
+Bumper Crop Cider Co. Crisp Apple,2.95,1,473,7.0,Can,Cider,0.089,2.95,473,33.11
+Brickworks Ciderhouse Queen Street 501,3.7,1,473,5.0,Can,Cider,0.156,3.7,473,23.65
+Ardiel  Apple Dry Cider,3.75,1,473,6.0,Can,Cider,0.132,3.75,473,28.38
+Sons of Kent Cedar Springs Hard Apple Spritzer Blueberry Cider,3.95,1,473,4.0,Can,Cider,0.209,3.95,473,18.92
+Walkerville City Cidery Argyle Apple Cider,3.85,1,473,5.0,Can,Cider,0.163,3.85,473,23.65
+Ernest Cider Mix 6-Pack,22.5,6,473,5.5,Can,Cider,0.144,3.75,2838,156.09
+Stock And Row Cold Tea Raspberry Flavoured Cider,3.45,1,355,4.0,Can,Cider,0.243,3.45,355,14.2
+Somersby Apple Cider,3.25,1,500,4.5,Can,Cider,0.144,3.25,500,22.5
+Duxbury Cider Co Heritage 1650 Dry Cider 473 Can,3.95,1,473,6.5,Can,Cider,0.128,3.95,473,30.745
+La Chouette Original Le Cidre Gourmand,5.85,1,330,4.5,Bottle,Cider,0.394,5.85,330,14.85
+Pearbucha Flavoured Cider,3.6,1,473,4.0,Can,Cider,0.19,3.6,473,18.92
+Ardiel Cider House Big John Lightly Hopped Cider,3.7,1,473,6.5,Can,Cider,0.12,3.7,473,30.745
+Vieni Sparkling Apple Cider,13.05,1,750,6.0,Bottle,Cider,0.29,13.05,750,45.0
+Thornbury Village Honeycrisp Apple Cider,3.75,1,473,5.6,Can,Cider,0.142,3.75,473,26.488
+West Avenue Cider Heritage Dry,3.8,1,473,6.5,Can,Cider,0.124,3.8,473,30.745
+Thornbury Craft Pear Apple Cider,3.85,1,473,7.0,Can,Cider,0.116,3.85,473,33.11
+West Avenue Little Mac McIntosh Apple Cider,3.9,1,473,6.0,Can,Cider,0.137,3.9,473,28.38
+Stock And Row Lime Crush Cider,3.45,1,355,4.5,Can,Cider,0.216,3.45,355,15.975
+Reinhart's Blackberry Cider,3.55,1,473,7.0,Can,Cider,0.107,3.55,473,33.11
+Shale Ridge Hard Cider Peach Apple,4.45,1,473,5.0,Can,Cider,0.188,4.45,473,23.65
+West Avenue Cider Cherriosity,4.05,1,473,6.5,Can,Cider,0.132,4.05,473,30.745
+Stock And Row Slow & Low Dry Cider,3.45,1,355,5.0,Can,Cider,0.194,3.45,355,17.75
+Somersby Cider Mixer 8-Pack,26.35,8,473,4.5,Can,Cider,0.155,3.294,3784,170.28
+Thornbury Craft Strong Apple Cider,3.85,1,473,7.1,Can,Cider,0.115,3.85,473,33.583
+Reinhart's Red Apple Light Cider,3.3,1,473,3.8,Can,Cider,0.184,3.3,473,17.974
+Reinhart's Red Apple Strong Cider,3.55,1,473,7.0,Can,Cider,0.107,3.55,473,33.11
+Rekorderlig Wild Berries Cider,3.95,1,500,7.0,Can,Cider,0.113,3.95,500,35.0
+Pombucha - Harmony Of Cider & Kombucha,3.5,1,473,4.0,Can,Cider,0.185,3.5,473,18.92
+No Boats On Sunday Wild Strawberry Cider,3.85,1,473,5.0,Can,Cider,0.163,3.85,473,23.65
+Pommies Cider,3.7,1,473,5.0,Can,Cider,0.156,3.7,473,23.65
+Pommies Farmhouse Cider,3.7,1,473,6.0,Can,Cider,0.13,3.7,473,28.38
+Muskoka Cliff Jump Cranberry Cider,3.85,1,473,5.5,Can,Cider,0.148,3.85,473,26.015
+No Boats On Sunday Peach Cider,3.85,1,473,5.0,Can,Cider,0.163,3.85,473,23.65
+Niagara Cider Rose Gold Berry Soaked Cider,3.95,1,473,6.0,Can,Cider,0.139,3.95,473,28.38
+Loch Mor Sour Cherry Dry Cider,4.25,1,355,4.6,Can,Cider,0.26,4.25,355,16.33
+Lonetree Authentic Dry Cider,3.1,1,473,5.6,Can,Cider,0.117,3.1,473,26.488
+KW Craft Cider,3.85,1,473,6.7,Can,Cider,0.121,3.85,473,31.691
+KW Craft Cider Chai Spiced,3.85,1,473,6.7,Can,Cider,0.121,3.85,473,31.691
+Ironwood Hard Cider,3.65,1,473,6.0,Can,Cider,0.129,3.65,473,28.38
+Kw Craft Cider Wild Cherry,3.95,1,473,6.4,Can,Cider,0.13,3.95,473,30.272
+Liberty Village Peach Cider,3.6,1,473,4.5,Can,Cider,0.169,3.6,473,21.285
+Growers Pear Cider,3.5,1,473,5.0,Can,Cider,0.148,3.5,473,23.65
+Growers Cider Stone Fruit,3.5,1,473,5.0,Can,Cider,0.148,3.5,473,23.65
+Ernest Cider Peach Bellini,3.75,1,473,5.8,Can,Cider,0.137,3.75,473,27.434
+Coffin Ridge Forbidden Artisanal Cider,3.95,1,473,6.5,Can,Cider,0.128,3.95,473,30.745
+Coffin Ridge Forbidden Hopped Cider,4.15,1,473,6.5,Can,Cider,0.135,4.15,473,30.745
+Ernest Grapefully Flavoured Cider,3.95,1,473,5.5,Can,Cider,0.152,3.95,473,26.015
+D'ont Poke The Bear Cider,3.45,1,473,5.6,Can,Cider,0.13,3.45,473,26.488
+Chill Street Starry Nights Flavoured Cider,4.25,1,473,6.9,Can,Cider,0.13,4.25,473,32.637
+Brickworks Ciderhouse Raspberry Lemonade Cider,3.7,1,473,4.5,Can,Cider,0.174,3.7,473,21.285
+Brickworks Cider Batch 1904,20.95,6,473,5.0,Can,Cider,0.148,3.492,2838,141.9
+Brickworks Ciderhouse Batch : 1904,3.7,1,473,4.7,Can,Cider,0.166,3.7,473,22.231
+Angry Orchard Crisp Apple,3.5,1,473,5.0,Can,Cider,0.148,3.5,473,23.65
+Ardiel Pear Dry Cider,3.75,1,473,5.5,Can,Cider,0.144,3.75,473,26.015
+Spy Cider House and Distillery Crimson Tide Cider,4.35,1,473,5.5,Can,Cider,0.167,4.35,473,26.015
+Spirit Tree Draught Cider,3.3,1,473,6.0,Can,Cider,0.116,3.3,473,28.38
+Spy Cider House Golden Eye Cider,4.15,1,473,5.0,Can,Cider,0.175,4.15,473,23.65
+Puddicombe Family Tree Apple Cider,3.5,1,473,5.5,Can,Cider,0.135,3.5,473,26.015
+Heartwood Farm Eve Goes Badass Sparkling Cider,3.95,1,355,6.4,Can,Cider,0.174,3.95,355,22.72
+Eden Grove Hibiscus Blossom Cider,3.75,1,473,5.4,Can,Cider,0.147,3.75,473,25.542
+Forbidden Pink Cider,4.15,1,473,5.5,Can,Cider,0.16,4.15,473,26.015
+Duntroon Cider House Empire Extra Dry Cider,3.95,1,473,5.5,Can,Cider,0.152,3.95,473,26.015
+Duntroon Cyder House - Raindance Rhubarb Infused,3.85,1,473,4.3,Can,Cider,0.189,3.85,473,20.339
+Duntroon Cyder House Standing Rock,3.65,1,473,4.3,Can,Cider,0.179,3.65,473,20.339
+Brickworks Ciderhouse Stadium Island Peach Cider,3.6,1,473,4.5,Can,Cider,0.169,3.6,473,21.285
+D'Ont Poke The Bear Berry Cider,3.5,1,473,5.5,Can,Cider,0.135,3.5,473,26.015
+Ernest Cider Winter's Blush,3.65,1,473,5.7,Can,Cider,0.135,3.65,473,26.961
+Tawse Cider,3.25,1,473,5.0,Can,Cider,0.137,3.25,473,23.65
+Somersby Wild Garden Crushed Apple Cider,10.95,4,355,4.5,Can,Cider,0.171,2.738,1420,63.9
+Rekorderlig Wild Berries Cider,4.0,1,500,4.5,Can,Cider,0.178,4.0,500,22.5
+Magnotta Small Batch Cider,3.5,1,473,5.6,Can,Cider,0.132,3.5,473,26.488
+Ernest Light Cider 6-Pack,21.0,6,473,4.0,Can,Cider,0.185,3.5,2838,113.52
+Brickworks Ciderhouse Rose Cider,3.6,1,473,6.0,Can,Cider,0.127,3.6,473,28.38
+East Street Cider Co. Landmark Dry Cider,3.85,1,473,6.0,Can,Cider,0.136,3.85,473,28.38
+Eden Grove Perfect Pear,3.75,1,473,5.4,Can,Cider,0.147,3.75,473,25.542
+Brickworks Ciderhouse Raspberry Peach Cider,3.6,1,473,5.0,Can,Cider,0.152,3.6,473,23.65
+Strongbow Gold Apple Cider,3.7,1,440,4.5,Can,Cider,0.187,3.7,440,19.8
+Brickworks Ciderhouse Mixed Pack,19.95,6,473,5.25,Can,Cider,0.134,3.325,2838,147.576
+Thornbury Craft Cranberry Cider,3.95,1,473,5.3,Can,Cider,0.158,3.95,473,25.069
+Ernest Cider Spiced Cherry,3.75,1,473,5.5,Can,Cider,0.144,3.75,473,26.015
+Seagram Cider,2.95,1,473,5.3,Can,Cider,0.118,2.95,473,25.069
+Tempt Cider No. 9,1.85,1,330,4.5,Can,Cider,0.125,1.85,330,14.85
+Two Blokes - Hex Press Dry Cider,4.1,1,473,6.4,Can,Cider,0.135,4.1,473,30.272

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beer Buddy</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
+    <link rel="stylesheet" href="../styles.css">
+    <link rel="icon" href="../images/favicon.svg" type="image/svg">
+    <script src="https://kit.fontawesome.com/9fbfcae3c2.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+</head>
+<body>
+    <div class="jumbotron custom-jumbotron jumbotron-fluid">
+        <div class="icon-wrapper">
+            <i class="fa-solid fa-5x fa-arrow-trend-up icon-top-left"></i>
+        </div>
+        <div class="jumbotron-text">
+            <h1 class="display-5">Matthew Witvoet</h1>
+            <p class="lead">Data Analyst, Data Scientist, Web Developer & Musician</p> 
+        </div>
+    </div>
+
+    <div class="container-fluid">
+        <div class="row vh-100">
+            <!-- Vertical bar on the left -->
+            <div class="vertical-bar d-flex align-items-center justify-content-center">
+                <div class="icon-and-text-projects text-center" id="icon-and-text-projects">
+                    <i class="fa-solid fa-code fa-4x navbar-i"></i>
+                    <p class="navbar-p">Projects</p>
+                </div>
+                <div class="icon-and-text-simulation text-center" id="icon-and-text-simulation">
+                    <i class="fa-solid fa-flask fa-4x navbar-i"></i>
+                    <p class="navbar-p">Simulation</p>
+                </div>
+                <div class="icon-and-text-music text-center" id="icon-and-text-music">
+                    <i class="fa-solid fa-music fa-4x navbar-i"></i>
+                    <p class="navbar-p">Music</p>
+                </div>
+                <div class="icon-and-text-beer text-center" id="icon-and-text-beer">
+                    <i class="fa-solid fa-beer-mug-empty fa-4x navbar-i"></i>
+                    <p class="navbar-p">Beer Buddy</p>
+                </div>
+            </div>
+            <!-- Main content area -->
+            <div class="col-md-10" id="pdf-viewer">
+                <h1 class="display-5" id="beer-buddy-header">Beer Buddy</h1>
+                <p class="lead" id="beer-buddy-desc">This page is the result of my LCBO web scraping project, it can be found on the projects page.</p>
+                <div class="rounded-line" id="beer-buddy-line"></div>
+                <div class="btn-group mb-3" role="group" aria-label="Sorting Options">
+                    <button type="button" class="btn btn-success" id="sort-cost-per-ml">Sort by Cost per mL of Alcohol</button>
+                    <button type="button" class="btn btn-primary" id="sort-cost-per-unit">Sort by Cost per Unit</button>
+                    <button type="button" class="btn btn-primary" id="sort-total-volume">Sort by Total Volume</button>
+                    <button type="button" class="btn btn-primary" id="sort-total-alcohol">Sort by Total Alcohol Content</button>
+                </div>
+                <button type="button" class="btn btn-danger" id="ascend-descend">Ascending</button>
+                <div class="w-100"></div> 
+                <div class="btn-group mb-3" role="group" aria-label="Filter Options">
+                    <button type="button" class="btn btn-secondary" id="filter-lager">Including Lager</button>
+                    <button type="button" class="btn btn-secondary" id="filter-ale">Including Ale</button>
+                    <button type="button" class="btn btn-secondary" id="filter-cider">Including Cider</button>
+                </div>
+                <!-- Pagination -->
+                <nav>
+                    <ul class="pagination justify-content-left">
+                        <li class="page-item">
+                            <a class="page-link" href="#" aria-label="Previous" id="prev-page">
+                                <span aria-hidden="true">&laquo; Previous</span>
+                            </a>
+                        </li>
+                        <li class="page-item">
+                            <a class="page-link" href="#" aria-label="Next" id="next-page">
+                                <span aria-hidden="true">Next &raquo;</span>
+                            </a>
+                        </li>
+                        <li class="page-item">
+                            <input type="number" id="page-number-input" class="form-control" style="width: 80px; display: inline-block;" min="1">
+                            <span id="total-pages" class="ml-2"></span>
+                        </li>
+                    </ul>
+                </nav>
+                <table class="table table-bordered table-striped">
+                    <thead class="thead-dark">
+                        <tr>
+                            <th>Name</th>
+                            <th>Price ($)</th>
+                            <th>Quantity</th>
+                            <th>Volume (mL)</th>
+                            <th>ABV (%)</th>
+                            <th>Container</th>
+                            <th>Type</th>
+                            <th>Cost per mL of Alcohol ($)</th>
+                            <th>Cost per Unit ($)</th>
+                            <th>Total Volume (mL)</th>
+                            <th>Total Alcohol Content (mL)</th>
+                        </tr>
+                    </thead>
+                    <tbody id="table-body">
+                        <!-- Table rows will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+    
+    <script src="beerbuddy.js"></script>
+</body>
+</html>

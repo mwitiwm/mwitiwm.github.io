@@ -6,6 +6,10 @@ document.getElementById("icon-and-text-music").addEventListener("click", functio
     window.location.href = "../music_files/music.html";
 });
 
+document.getElementById("icon-and-text-beer").addEventListener("click", function() {
+    window.location.href = "../beerbuddy_files/beerbuddy.html";
+});
+
 document.getElementById("add-particle").addEventListener("click", function() {
     particles.push(new Particle(random(width), random(height)));
 });
