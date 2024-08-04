@@ -38,9 +38,9 @@ body {
 .icon-wrapper {
     position: absolute;
     padding: 1rem;
-    top: 1.8rem; /* Adjust top position as needed */
-    left: 1.8rem; /* Adjust left position as needed */
-    color: white; /* Icon color */
+    top: 1.8rem;
+    left: 1.8rem;
+    color: white;
     border: 0.3rem solid white;
     border-radius: 2rem;
 }
@@ -56,25 +56,25 @@ body {
 .icon-and-text-projects {
     position: absolute;
     padding: 1rem;
-    top: 12rem; /* Adjust top position as needed */
-    left: 2rem; /* Adjust left position as needed */
-    color: white; /* Icon color */
+    top: 12rem;
+    left: 2rem;
+    color: white;
 }
 
 .icon-and-text-simulation {
     position: absolute;
     padding: 1rem;
-    top: 21rem; /* Adjust top position as needed */
-    left: 1.2rem; /* Adjust left position as needed */
-    color: white; /* Icon color */
+    top: 21rem;
+    left: 1.2rem;
+    color: white;
 }
 
 .icon-and-text-music {
     position: absolute;
     padding: 1rem;
-    top: 30rem; /* Adjust top position as needed */
-    left: 2.5rem; /* Adjust left position as needed */
-    color: white; /* Icon color */
+    top: 30rem;
+    left: 2.5rem;
+    color: white;
 }
 
 .icon-and-text-beer {
