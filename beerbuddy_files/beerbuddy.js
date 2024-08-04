@@ -167,7 +167,7 @@ document.addEventListener("DOMContentLoaded", function () {
         }
         document.getElementById("sort-total-volume").classList.add("btn-success");
         document.getElementById("sort-total-volume").classList.remove("btn-primary");
-        selectedSort = 4
+        selectedSort = 4;
         sortData('Total Volume (mL)', ascending);
     });
     
@@ -179,6 +179,22 @@ document.addEventListener("DOMContentLoaded", function () {
             ascending = true;
             document.getElementById("ascend-descend").innerHTML = "Ascending";
         }
+        let selectedSortString;
+        switch(selectedSort) {
+            case 1:
+                selectedSortString = "Cost per mL of Alcohol ($)";
+                break;
+            case 2:
+                selectedSortString = "Cost per Unit ($)";
+                break;
+            case 3:
+                selectedSortString = "Total Alcohol Content (mL)";
+                break;
+            case 4:
+                selectedSortString = "Total Volume (mL)";
+                break;
+        }
+        sortData(selectedSortString, ascending);
     });
 
 
@@ -192,6 +208,22 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("filter-lager").innerHTML = "Including Lager";
         }
         filterData();
+        let selectedSortString;
+        switch(selectedSort) {
+            case 1:
+                selectedSortString = "Cost per mL of Alcohol ($)";
+                break;
+            case 2:
+                selectedSortString = "Cost per Unit ($)";
+                break;
+            case 3:
+                selectedSortString = "Total Alcohol Content (mL)";
+                break;
+            case 4:
+                selectedSortString = "Total Volume (mL)";
+                break;
+        }
+        sortData(selectedSortString, ascending);
     });
 
     document.getElementById("filter-ale").addEventListener("click", function () {
@@ -204,6 +236,22 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("filter-ale").innerHTML = "Including Ale";
         }
         filterData();
+        let selectedSortString;
+        switch(selectedSort) {
+            case 1:
+                selectedSortString = "Cost per mL of Alcohol ($)";
+                break;
+            case 2:
+                selectedSortString = "Cost per Unit ($)";
+                break;
+            case 3:
+                selectedSortString = "Total Alcohol Content (mL)";
+                break;
+            case 4:
+                selectedSortString = "Total Volume (mL)";
+                break;
+        }
+        sortData(selectedSortString, ascending);
     });
 
     document.getElementById("filter-cider").addEventListener("click", function () {
@@ -216,6 +264,22 @@ document.addEventListener("DOMContentLoaded", function () {
             document.getElementById("filter-cider").innerHTML = "Including Cider";
         }
         filterData();
+        let selectedSortString;
+        switch(selectedSort) {
+            case 1:
+                selectedSortString = "Cost per mL of Alcohol ($)";
+                break;
+            case 2:
+                selectedSortString = "Cost per Unit ($)";
+                break;
+            case 3:
+                selectedSortString = "Total Alcohol Content (mL)";
+                break;
+            case 4:
+                selectedSortString = "Total Volume (mL)";
+                break;
+        }
+        sortData(selectedSortString, ascending);
     });
 
     Papa.parse("lcbo_data.csv", {
