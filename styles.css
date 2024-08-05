@@ -118,8 +118,6 @@ body {
 
 #pdf-viewer {
     padding: 2rem;
-    height: 100vh !important;
-    width: 100vh !important;
     flex-grow: 1;
 }
 
