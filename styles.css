@@ -121,7 +121,6 @@ body {
     height: 100vh !important;
     width: 100vh !important;
     flex-grow: 1;
-    overflow: auto;
 }
 
 .navbar-p {
